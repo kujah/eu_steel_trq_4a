@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>EU STEEL TRQ 4A 소진 현황</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <main class="page">
+    <section class="hero">
+      <div class="hero__copy">
+        <p class="eyebrow">EU Tariff Quota Tracking</p>
+        <h1>EU STEEL TRQ 4A 소진 현황</h1>
+        <p class="hero__text">
+          Exporter 기준으로 allocation, 소진량, 잔량, 소진율을 MT 단위로 확인합니다.
+        </p>
+        <p class="hero__subtext" id="quotaMeta">-</p>
+      </div>
+      <div class="hero__meta">
+        <div class="meta-card">
+          <span class="meta-card__label">기준기간</span>
+          <strong id="reportPeriod">-</strong>
+        </div>
+        <div class="meta-card">
+          <span class="meta-card__label">Generated</span>
+          <strong id="generatedAt">-</strong>
+        </div>
+        <div class="meta-card">
+          <span class="meta-card__label">Source Update</span>
+          <strong id="sourceUpdate">-</strong>
+        </div>
+      </div>
+    </section>
+
+    <section class="summary" id="summary"></section>
+
+    <section class="panel">
+      <div class="panel__top">
+        <div>
+          <h2>Quota Snapshot</h2>
+          <p class="panel__hint">지정한 exporter 순서로 정렬합니다.</p>
+        </div>
+        <div class="panel__actions">
+          <label class="search">
+            <span>Search</span>
+            <input id="searchInput" type="search" placeholder="order number / exporter / taric">
+          </label>
+          <a class="download-btn" href="./data/eu-steel-trq-4a-dashboard.xlsx">Download Excel</a>
+        </div>
+      </div>
+      <div id="cards" class="cards"></div>
+    </section>
+
+    <section class="panel">
+      <div class="panel__top">
+        <div>
+          <h2>Detail Table</h2>
+          <p class="panel__hint">exporter 기준, 수량 단위는 MT이고 소수점 둘째 자리까지 표시합니다.</p>
+        </div>
+      </div>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>Order</th>
+              <th>Exporter</th>
+              <th>Initial (MT)</th>
+              <th>Used (MT)</th>
+              <th>Balance (MT)</th>
+              <th>Utilization</th>
+              <th>Critical</th>
+              <th>Last Allocation</th>
+              <th>Awaiting</th>
+            </tr>
+          </thead>
+          <tbody id="tableBody"></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <template id="cardTemplate">
+    <article class="card">
+      <div class="card__header">
+        <div>
+          <p class="card__order"></p>
+          <h3 class="card__origin"></h3>
+        </div>
+        <a class="card__link" target="_blank" rel="noreferrer">Source</a>
+      </div>
+      <div class="progress">
+        <div class="progress__bar"></div>
+      </div>
+      <div class="stats"></div>
+    </article>
+  </template>
+
+  <script src="./app.js"></script>
+</body>
+</html>

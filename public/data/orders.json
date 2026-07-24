@@ -1,0 +1,1177 @@
+{
+  "title": "EU STEEL TRQ 4A 소진 현황",
+  "generated_at_utc": "2026-07-24T04:53:16.641821+00:00",
+  "source": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_consultation.jsp?Lang=en",
+  "year_filter": 2026,
+  "order_numbers": [
+    "099832",
+    "099833",
+    "099834",
+    "099835",
+    "099836",
+    "099505",
+    "099605",
+    "099714",
+    "099718",
+    "099716",
+    "099715",
+    "099717"
+  ],
+  "quota_section": "4.A",
+  "product_group": "Metallic Coated Sheets",
+  "report_period": "01-07-2026 - 30-09-2026",
+  "items": [
+    {
+      "order_number": "099605",
+      "quota_section": "4.A",
+      "product_group": "Metallic Coated Sheets",
+      "exporter": "Other countries",
+      "origins_summary": "ERGA OMNES",
+      "start_date": "01-07-2026",
+      "end_date": "30-09-2026",
+      "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099605",
+      "source_last_taric_update": "23-07-2026",
+      "initial_amount_mt": {
+        "value": 33338.76,
+        "unit": "MT",
+        "raw": "33338.76 MT"
+      },
+      "used_amount_mt": {
+        "value": 16292.6,
+        "unit": "MT",
+        "raw": "16292.60 MT"
+      },
+      "balance_mt": {
+        "value": 17046.16,
+        "unit": "MT",
+        "raw": "17046.16 MT"
+      },
+      "validity_period": "01-07-2026\n-\n30-09-2026",
+      "origin": "ERGA OMNES",
+      "initial_amount": {
+        "value": 33338760.0,
+        "unit": "Kilogram",
+        "raw": "33338760 Kilogram"
+      },
+      "current_amount": {
+        "value": 33338760.0,
+        "unit": "Kilogram",
+        "raw": "33338760 Kilogram"
+      },
+      "balance": {
+        "value": 17046155.344,
+        "unit": "Kilogram",
+        "raw": "17046155.344 Kilogram"
+      },
+      "used_amount": {
+        "value": 16292604.66,
+        "unit": "Kilogram",
+        "raw": "16292604.66"
+      },
+      "utilization_pct": 48.87,
+      "exhaustion_date": "",
+      "critical": "No",
+      "last_import_date": "20-07-2026",
+      "last_allocation_date": "23-07-2026",
+      "awaiting_allocation": "642589",
+      "awaiting_allocation_mt": {
+        "value": 642.59,
+        "unit": "MT",
+        "raw": "642.59 MT"
+      },
+      "blocking_period": "01-07-2026\n-\n14-07-2026",
+      "suspension_period": "",
+      "allocated_pct_last_allocation": "100",
+      "associated_taric_codes": [
+        "7210 41 00 20",
+        "7210 41 00 30",
+        "7210 49 00 20",
+        "7210 49 00 30",
+        "7210 61 00 20",
+        "7210 61 00 30",
+        "7210 69 00 20",
+        "7210 69 00 30",
+        "7212 30 00 20",
+        "7212 30 00 30",
+        "7212 50 20 00",
+        "7212 50 61 20",
+        "7212 50 61 30",
+        "7212 50 69 20",
+        "7212 50 69 30",
+        "7225 92 00 20",
+        "7225 92 00 30",
+        "7225 99 00 11",
+        "7225 99 00 22",
+        "7225 99 00 23",
+        "7225 99 00 41",
+        "7225 99 00 45",
+        "7225 99 00 91",
+        "7225 99 00 92",
+        "7225 99 00 93",
+        "7226 99 30 10",
+        "7226 99 30 30",
+        "7226 99 70 11",
+        "7226 99 70 13",
+        "7226 99 70 91",
+        "7226 99 70 93",
+        "7226 99 70 94"
+      ]
+    },
+    {
+      "order_number": "099836",
+      "quota_section": "4.A",
+      "product_group": "Metallic Coated Sheets",
+      "exporter": "Korea",
+      "origins_summary": "Multiple origins",
+      "start_date": "01-07-2026",
+      "end_date": "30-09-2026",
+      "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099836",
+      "source_last_taric_update": "23-07-2026",
+      "initial_amount_mt": {
+        "value": 26119.93,
+        "unit": "MT",
+        "raw": "26119.93 MT"
+      },
+      "used_amount_mt": {
+        "value": 13049.4,
+        "unit": "MT",
+        "raw": "13049.40 MT"
+      },
+      "balance_mt": {
+        "value": 13070.53,
+        "unit": "MT",
+        "raw": "13070.53 MT"
+      },
+      "validity_period": "01-07-2026\n-\n30-09-2026",
+      "origin": "European Union\nKorea, Republic of (South Korea)",
+      "initial_amount": {
+        "value": 26119930.0,
+        "unit": "Kilogram",
+        "raw": "26119930 Kilogram"
+      },
+      "current_amount": {
+        "value": 26119930.0,
+        "unit": "Kilogram",
+        "raw": "26119930 Kilogram"
+      },
+      "balance": {
+        "value": 13070531.467,
+        "unit": "Kilogram",
+        "raw": "13070531.467 Kilogram"
+      },
+      "used_amount": {
+        "value": 13049398.53,
+        "unit": "Kilogram",
+        "raw": "13049398.53"
+      },
+      "utilization_pct": 49.96,
+      "exhaustion_date": "",
+      "critical": "No",
+      "last_import_date": "20-07-2026",
+      "last_allocation_date": "23-07-2026",
+      "awaiting_allocation": "184770",
+      "awaiting_allocation_mt": {
+        "value": 184.77,
+        "unit": "MT",
+        "raw": "184.77 MT"
+      },
+      "blocking_period": "01-07-2026\n-\n14-07-2026",
+      "suspension_period": "",
+      "allocated_pct_last_allocation": "100",
+      "associated_taric_codes": [
+        "7210 41 00 20",
+        "7210 41 00 30",
+        "7210 49 00 20",
+        "7210 49 00 30",
+        "7210 61 00 20",
+        "7210 61 00 30",
+        "7210 69 00 20",
+        "7210 69 00 30",
+        "7212 30 00 20",
+        "7212 30 00 30",
+        "7212 50 20 00",
+        "7212 50 61 20",
+        "7212 50 61 30",
+        "7212 50 69 20",
+        "7212 50 69 30",
+        "7225 92 00 20",
+        "7225 92 00 30",
+        "7225 99 00 11",
+        "7225 99 00 22",
+        "7225 99 00 23",
+        "7225 99 00 41",
+        "7225 99 00 45",
+        "7225 99 00 91",
+        "7225 99 00 92",
+        "7225 99 00 93",
+        "7226 99 30 10",
+        "7226 99 30 30",
+        "7226 99 70 11",
+        "7226 99 70 13",
+        "7226 99 70 91",
+        "7226 99 70 93",
+        "7226 99 70 94"
+      ]
+    },
+    {
+      "order_number": "099832",
+      "quota_section": "4.A",
+      "product_group": "Metallic Coated Sheets",
+      "exporter": "Viet Nam",
+      "origins_summary": "Multiple origins",
+      "start_date": "01-07-2026",
+      "end_date": "30-09-2026",
+      "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099832",
+      "source_last_taric_update": "23-07-2026",
+      "initial_amount_mt": {
+        "value": 117496.92,
+        "unit": "MT",
+        "raw": "117496.92 MT"
+      },
+      "used_amount_mt": {
+        "value": 19273.19,
+        "unit": "MT",
+        "raw": "19273.19 MT"
+      },
+      "balance_mt": {
+        "value": 98223.73,
+        "unit": "MT",
+        "raw": "98223.73 MT"
+      },
+      "validity_period": "01-07-2026\n-\n30-09-2026",
+      "origin": "European Union\nViet Nam",
+      "initial_amount": {
+        "value": 117496920.0,
+        "unit": "Kilogram",
+        "raw": "117496920 Kilogram"
+      },
+      "current_amount": {
+        "value": 117496920.0,
+        "unit": "Kilogram",
+        "raw": "117496920 Kilogram"
+      },
+      "balance": {
+        "value": 98223734.0,
+        "unit": "Kilogram",
+        "raw": "98223734 Kilogram"
+      },
+      "used_amount": {
+        "value": 19273186.0,
+        "unit": "Kilogram",
+        "raw": "19273186.0"
+      },
+      "utilization_pct": 16.4,
+      "exhaustion_date": "",
+      "critical": "No",
+      "last_import_date": "19-07-2026",
+      "last_allocation_date": "23-07-2026",
+      "awaiting_allocation": "3471",
+      "awaiting_allocation_mt": {
+        "value": 3.47,
+        "unit": "MT",
+        "raw": "3.47 MT"
+      },
+      "blocking_period": "01-07-2026\n-\n14-07-2026",
+      "suspension_period": "",
+      "allocated_pct_last_allocation": "100",
+      "associated_taric_codes": [
+        "7210 41 00 20",
+        "7210 41 00 30",
+        "7210 49 00 20",
+        "7210 49 00 30",
+        "7210 61 00 20",
+        "7210 61 00 30",
+        "7210 69 00 20",
+        "7210 69 00 30",
+        "7212 30 00 20",
+        "7212 30 00 30",
+        "7212 50 20 00",
+        "7212 50 61 20",
+        "7212 50 61 30",
+        "7212 50 69 20",
+        "7212 50 69 30",
+        "7225 92 00 20",
+        "7225 92 00 30",
+        "7225 99 00 11",
+        "7225 99 00 22",
+        "7225 99 00 23",
+        "7225 99 00 41",
+        "7225 99 00 45",
+        "7225 99 00 91",
+        "7225 99 00 92",
+        "7225 99 00 93",
+        "7226 99 30 10",
+        "7226 99 30 30",
+        "7226 99 70 11",
+        "7226 99 70 13",
+        "7226 99 70 91",
+        "7226 99 70 93",
+        "7226 99 70 94"
+      ]
+    },
+    {
+      "order_number": "099833",
+      "quota_section": "4.A",
+      "product_group": "Metallic Coated Sheets",
+      "exporter": "Taiwan",
+      "origins_summary": "Multiple origins",
+      "start_date": "01-07-2026",
+      "end_date": "30-09-2026",
+      "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099833",
+      "source_last_taric_update": "23-07-2026",
+      "initial_amount_mt": {
+        "value": 33783.39,
+        "unit": "MT",
+        "raw": "33783.39 MT"
+      },
+      "used_amount_mt": {
+        "value": 18585.42,
+        "unit": "MT",
+        "raw": "18585.42 MT"
+      },
+      "balance_mt": {
+        "value": 15197.97,
+        "unit": "MT",
+        "raw": "15197.97 MT"
+      },
+      "validity_period": "01-07-2026\n-\n30-09-2026",
+      "origin": "European Union\nTaiwan",
+      "initial_amount": {
+        "value": 33783390.0,
+        "unit": "Kilogram",
+        "raw": "33783390 Kilogram"
+      },
+      "current_amount": {
+        "value": 33783390.0,
+        "unit": "Kilogram",
+        "raw": "33783390 Kilogram"
+      },
+      "balance": {
+        "value": 15197972.627,
+        "unit": "Kilogram",
+        "raw": "15197972.627 Kilogram"
+      },
+      "used_amount": {
+        "value": 18585417.37,
+        "unit": "Kilogram",
+        "raw": "18585417.37"
+      },
+      "utilization_pct": 55.01,
+      "exhaustion_date": "",
+      "critical": "No",
+      "last_import_date": "20-07-2026",
+      "last_allocation_date": "23-07-2026",
+      "awaiting_allocation": "49117",
+      "awaiting_allocation_mt": {
+        "value": 49.12,
+        "unit": "MT",
+        "raw": "49.12 MT"
+      },
+      "blocking_period": "01-07-2026\n-\n14-07-2026",
+      "suspension_period": "",
+      "allocated_pct_last_allocation": "100",
+      "associated_taric_codes": [
+        "7210 41 00 20",
+        "7210 41 00 30",
+        "7210 49 00 20",
+        "7210 49 00 30",
+        "7210 61 00 20",
+        "7210 61 00 30",
+        "7210 69 00 20",
+        "7210 69 00 30",
+        "7212 30 00 20",
+        "7212 30 00 30",
+        "7212 50 20 00",
+        "7212 50 61 20",
+        "7212 50 61 30",
+        "7212 50 69 20",
+        "7212 50 69 30",
+        "7225 92 00 20",
+        "7225 92 00 30",
+        "7225 99 00 11",
+        "7225 99 00 22",
+        "7225 99 00 23",
+        "7225 99 00 41",
+        "7225 99 00 45",
+        "7225 99 00 91",
+        "7225 99 00 92",
+        "7225 99 00 93",
+        "7226 99 30 10",
+        "7226 99 30 30",
+        "7226 99 70 11",
+        "7226 99 70 13",
+        "7226 99 70 91",
+        "7226 99 70 93",
+        "7226 99 70 94"
+      ]
+    },
+    {
+      "order_number": "099834",
+      "quota_section": "4.A",
+      "product_group": "Metallic Coated Sheets",
+      "exporter": "Turkiye",
+      "origins_summary": "Multiple origins",
+      "start_date": "01-07-2026",
+      "end_date": "30-09-2026",
+      "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099834",
+      "source_last_taric_update": "23-07-2026",
+      "initial_amount_mt": {
+        "value": 63925.33,
+        "unit": "MT",
+        "raw": "63925.33 MT"
+      },
+      "used_amount_mt": {
+        "value": 63925.33,
+        "unit": "MT",
+        "raw": "63925.33 MT"
+      },
+      "balance_mt": {
+        "value": 0.0,
+        "unit": "MT",
+        "raw": "0.00 MT"
+      },
+      "validity_period": "01-07-2026\n-\n30-09-2026",
+      "origin": "European Union\nTürkiye",
+      "initial_amount": {
+        "value": 63925330.0,
+        "unit": "Kilogram",
+        "raw": "63925330 Kilogram"
+      },
+      "current_amount": {
+        "value": 63925330.0,
+        "unit": "Kilogram",
+        "raw": "63925330 Kilogram"
+      },
+      "balance": {
+        "value": 0.0,
+        "unit": "Kilogram",
+        "raw": "0 Kilogram"
+      },
+      "used_amount": {
+        "value": 63925330.0,
+        "unit": "Kilogram",
+        "raw": "63925330.0"
+      },
+      "utilization_pct": 100.0,
+      "exhaustion_date": "01-07-2026",
+      "critical": "No",
+      "last_import_date": "01-07-2026",
+      "last_allocation_date": "15-07-2026",
+      "awaiting_allocation": "0",
+      "awaiting_allocation_mt": {
+        "value": 0.0,
+        "unit": "MT",
+        "raw": "0.00 MT"
+      },
+      "blocking_period": "01-07-2026\n-\n14-07-2026",
+      "suspension_period": "",
+      "allocated_pct_last_allocation": "54.515",
+      "associated_taric_codes": [
+        "7210 41 00 20",
+        "7210 41 00 30",
+        "7210 49 00 20",
+        "7210 49 00 30",
+        "7210 61 00 20",
+        "7210 61 00 30",
+        "7210 69 00 20",
+        "7210 69 00 30",
+        "7212 30 00 20",
+        "7212 30 00 30",
+        "7212 50 20 00",
+        "7212 50 61 20",
+        "7212 50 61 30",
+        "7212 50 69 20",
+        "7212 50 69 30",
+        "7225 92 00 20",
+        "7225 92 00 30",
+        "7225 99 00 11",
+        "7225 99 00 22",
+        "7225 99 00 23",
+        "7225 99 00 41",
+        "7225 99 00 45",
+        "7225 99 00 91",
+        "7225 99 00 92",
+        "7225 99 00 93",
+        "7226 99 30 10",
+        "7226 99 30 30",
+        "7226 99 70 11",
+        "7226 99 70 13",
+        "7226 99 70 91",
+        "7226 99 70 93",
+        "7226 99 70 94"
+      ]
+    },
+    {
+      "order_number": "099835",
+      "quota_section": "4.A",
+      "product_group": "Metallic Coated Sheets",
+      "exporter": "India",
+      "origins_summary": "Multiple origins",
+      "start_date": "01-07-2026",
+      "end_date": "30-09-2026",
+      "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099835",
+      "source_last_taric_update": "23-07-2026",
+      "initial_amount_mt": {
+        "value": 58295.85,
+        "unit": "MT",
+        "raw": "58295.85 MT"
+      },
+      "used_amount_mt": {
+        "value": 5612.64,
+        "unit": "MT",
+        "raw": "5612.64 MT"
+      },
+      "balance_mt": {
+        "value": 52683.21,
+        "unit": "MT",
+        "raw": "52683.21 MT"
+      },
+      "validity_period": "01-07-2026\n-\n30-09-2026",
+      "origin": "European Union\nIndia",
+      "initial_amount": {
+        "value": 58295850.0,
+        "unit": "Kilogram",
+        "raw": "58295850 Kilogram"
+      },
+      "current_amount": {
+        "value": 58295850.0,
+        "unit": "Kilogram",
+        "raw": "58295850 Kilogram"
+      },
+      "balance": {
+        "value": 52683205.095,
+        "unit": "Kilogram",
+        "raw": "52683205.095 Kilogram"
+      },
+      "used_amount": {
+        "value": 5612644.91,
+        "unit": "Kilogram",
+        "raw": "5612644.91"
+      },
+      "utilization_pct": 9.63,
+      "exhaustion_date": "",
+      "critical": "No",
+      "last_import_date": "20-07-2026",
+      "last_allocation_date": "23-07-2026",
+      "awaiting_allocation": "91090",
+      "awaiting_allocation_mt": {
+        "value": 91.09,
+        "unit": "MT",
+        "raw": "91.09 MT"
+      },
+      "blocking_period": "01-07-2026\n-\n14-07-2026",
+      "suspension_period": "",
+      "allocated_pct_last_allocation": "100",
+      "associated_taric_codes": [
+        "7210 41 00 20",
+        "7210 41 00 30",
+        "7210 49 00 20",
+        "7210 49 00 30",
+        "7210 61 00 20",
+        "7210 61 00 30",
+        "7210 69 00 20",
+        "7210 69 00 30",
+        "7212 30 00 20",
+        "7212 30 00 30",
+        "7212 50 20 00",
+        "7212 50 61 20",
+        "7212 50 61 30",
+        "7212 50 69 20",
+        "7212 50 69 30",
+        "7225 92 00 20",
+        "7225 92 00 30",
+        "7225 99 00 11",
+        "7225 99 00 22",
+        "7225 99 00 23",
+        "7225 99 00 41",
+        "7225 99 00 45",
+        "7225 99 00 91",
+        "7225 99 00 92",
+        "7225 99 00 93",
+        "7226 99 30 10",
+        "7226 99 30 30",
+        "7226 99 70 11",
+        "7226 99 70 13",
+        "7226 99 70 91",
+        "7226 99 70 93",
+        "7226 99 70 94"
+      ]
+    },
+    {
+      "order_number": "099505",
+      "quota_section": "4.A",
+      "product_group": "Metallic Coated Sheets",
+      "exporter": "FTA Quota - CSQ",
+      "origins_summary": "Multiple origins",
+      "start_date": "01-07-2026",
+      "end_date": "30-09-2026",
+      "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099505",
+      "source_last_taric_update": "23-07-2026",
+      "initial_amount_mt": {
+        "value": 38881.49,
+        "unit": "MT",
+        "raw": "38881.49 MT"
+      },
+      "used_amount_mt": {
+        "value": 38881.49,
+        "unit": "MT",
+        "raw": "38881.49 MT"
+      },
+      "balance_mt": {
+        "value": 0.0,
+        "unit": "MT",
+        "raw": "0.00 MT"
+      },
+      "validity_period": "01-07-2026\n-\n30-09-2026",
+      "origin": "European Union\nIndia\nKorea, Republic of (South Korea)\nTürkiye",
+      "initial_amount": {
+        "value": 38881490.0,
+        "unit": "Kilogram",
+        "raw": "38881490 Kilogram"
+      },
+      "current_amount": {
+        "value": 38881490.0,
+        "unit": "Kilogram",
+        "raw": "38881490 Kilogram"
+      },
+      "balance": {
+        "value": 0.0,
+        "unit": "Kilogram",
+        "raw": "0 Kilogram"
+      },
+      "used_amount": {
+        "value": 38881490.0,
+        "unit": "Kilogram",
+        "raw": "38881490.0"
+      },
+      "utilization_pct": 100.0,
+      "exhaustion_date": "01-07-2026",
+      "critical": "No",
+      "last_import_date": "01-07-2026",
+      "last_allocation_date": "22-07-2026",
+      "awaiting_allocation": "0",
+      "awaiting_allocation_mt": {
+        "value": 0.0,
+        "unit": "MT",
+        "raw": "0.00 MT"
+      },
+      "blocking_period": "01-07-2026\n-\n14-07-2026",
+      "suspension_period": "",
+      "allocated_pct_last_allocation": "0",
+      "associated_taric_codes": [
+        "7210 41 00 20",
+        "7210 41 00 30",
+        "7210 49 00 20",
+        "7210 49 00 30",
+        "7210 61 00 20",
+        "7210 61 00 30",
+        "7210 69 00 20",
+        "7210 69 00 30",
+        "7212 30 00 20",
+        "7212 30 00 30",
+        "7212 50 20 00",
+        "7212 50 61 20",
+        "7212 50 61 30",
+        "7212 50 69 20",
+        "7212 50 69 30",
+        "7225 92 00 20",
+        "7225 92 00 30",
+        "7225 99 00 11",
+        "7225 99 00 22",
+        "7225 99 00 23",
+        "7225 99 00 41",
+        "7225 99 00 45",
+        "7225 99 00 91",
+        "7225 99 00 92",
+        "7225 99 00 93",
+        "7226 99 30 10",
+        "7226 99 30 30",
+        "7226 99 70 11",
+        "7226 99 70 13",
+        "7226 99 70 91",
+        "7226 99 70 93",
+        "7226 99 70 94"
+      ]
+    },
+    {
+      "order_number": "099718",
+      "quota_section": "4.A",
+      "product_group": "Metallic Coated Sheets",
+      "exporter": "United Kingdom",
+      "origins_summary": "Multiple origins",
+      "start_date": "01-07-2026",
+      "end_date": "30-09-2026",
+      "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099718",
+      "source_last_taric_update": "23-07-2026",
+      "initial_amount_mt": {
+        "value": 11600.08,
+        "unit": "MT",
+        "raw": "11600.08 MT"
+      },
+      "used_amount_mt": {
+        "value": 5648.57,
+        "unit": "MT",
+        "raw": "5648.57 MT"
+      },
+      "balance_mt": {
+        "value": 5951.51,
+        "unit": "MT",
+        "raw": "5951.51 MT"
+      },
+      "validity_period": "01-07-2026\n-\n30-09-2026",
+      "origin": "European Union\nUnited Kingdom",
+      "initial_amount": {
+        "value": 11600080.0,
+        "unit": "Kilogram",
+        "raw": "11600080 Kilogram"
+      },
+      "current_amount": {
+        "value": 11600080.0,
+        "unit": "Kilogram",
+        "raw": "11600080 Kilogram"
+      },
+      "balance": {
+        "value": 5951507.36,
+        "unit": "Kilogram",
+        "raw": "5951507.36 Kilogram"
+      },
+      "used_amount": {
+        "value": 5648572.64,
+        "unit": "Kilogram",
+        "raw": "5648572.64"
+      },
+      "utilization_pct": 48.69,
+      "exhaustion_date": "",
+      "critical": "No",
+      "last_import_date": "20-07-2026",
+      "last_allocation_date": "23-07-2026",
+      "awaiting_allocation": "1228935",
+      "awaiting_allocation_mt": {
+        "value": 1228.93,
+        "unit": "MT",
+        "raw": "1228.93 MT"
+      },
+      "blocking_period": "01-07-2026\n-\n14-07-2026",
+      "suspension_period": "",
+      "allocated_pct_last_allocation": "100",
+      "associated_taric_codes": [
+        "7210 41 00 20",
+        "7210 41 00 30",
+        "7210 49 00 20",
+        "7210 49 00 30",
+        "7210 61 00 20",
+        "7210 61 00 30",
+        "7210 69 00 20",
+        "7210 69 00 30",
+        "7212 30 00 20",
+        "7212 30 00 30",
+        "7212 50 20 00",
+        "7212 50 61 20",
+        "7212 50 61 30",
+        "7212 50 69 20",
+        "7212 50 69 30",
+        "7225 92 00 20",
+        "7225 92 00 30",
+        "7225 99 00 11",
+        "7225 99 00 22",
+        "7225 99 00 23",
+        "7225 99 00 41",
+        "7225 99 00 45",
+        "7225 99 00 91",
+        "7225 99 00 92",
+        "7225 99 00 93",
+        "7226 99 30 10",
+        "7226 99 30 30",
+        "7226 99 70 11",
+        "7226 99 70 13",
+        "7226 99 70 91",
+        "7226 99 70 93",
+        "7226 99 70 94"
+      ]
+    },
+    {
+      "order_number": "099716",
+      "quota_section": "4.A",
+      "product_group": "Metallic Coated Sheets",
+      "exporter": "Japan",
+      "origins_summary": "Multiple origins",
+      "start_date": "01-07-2026",
+      "end_date": "30-09-2026",
+      "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099716",
+      "source_last_taric_update": "23-07-2026",
+      "initial_amount_mt": {
+        "value": 2874.21,
+        "unit": "MT",
+        "raw": "2874.21 MT"
+      },
+      "used_amount_mt": {
+        "value": 2803.06,
+        "unit": "MT",
+        "raw": "2803.06 MT"
+      },
+      "balance_mt": {
+        "value": 71.15,
+        "unit": "MT",
+        "raw": "71.15 MT"
+      },
+      "validity_period": "01-07-2026\n-\n30-09-2026",
+      "origin": "European Union\nJapan",
+      "initial_amount": {
+        "value": 2874210.0,
+        "unit": "Kilogram",
+        "raw": "2874210 Kilogram"
+      },
+      "current_amount": {
+        "value": 2874210.0,
+        "unit": "Kilogram",
+        "raw": "2874210 Kilogram"
+      },
+      "balance": {
+        "value": 71150.0,
+        "unit": "Kilogram",
+        "raw": "71150 Kilogram"
+      },
+      "used_amount": {
+        "value": 2803060.0,
+        "unit": "Kilogram",
+        "raw": "2803060.0"
+      },
+      "utilization_pct": 97.52,
+      "exhaustion_date": "",
+      "critical": "Yes",
+      "last_import_date": "06-07-2026",
+      "last_allocation_date": "15-07-2026",
+      "awaiting_allocation": "0",
+      "awaiting_allocation_mt": {
+        "value": 0.0,
+        "unit": "MT",
+        "raw": "0.00 MT"
+      },
+      "blocking_period": "01-07-2026\n-\n14-07-2026",
+      "suspension_period": "",
+      "allocated_pct_last_allocation": "100",
+      "associated_taric_codes": [
+        "7210 41 00 20",
+        "7210 41 00 30",
+        "7210 49 00 20",
+        "7210 49 00 30",
+        "7210 61 00 20",
+        "7210 61 00 30",
+        "7210 69 00 20",
+        "7210 69 00 30",
+        "7212 30 00 20",
+        "7212 30 00 30",
+        "7212 50 20 00",
+        "7212 50 61 20",
+        "7212 50 61 30",
+        "7212 50 69 20",
+        "7212 50 69 30",
+        "7225 92 00 20",
+        "7225 92 00 30",
+        "7225 99 00 11",
+        "7225 99 00 22",
+        "7225 99 00 23",
+        "7225 99 00 41",
+        "7225 99 00 45",
+        "7225 99 00 91",
+        "7225 99 00 92",
+        "7225 99 00 93",
+        "7226 99 30 10",
+        "7226 99 30 30",
+        "7226 99 70 11",
+        "7226 99 70 13",
+        "7226 99 70 91",
+        "7226 99 70 93",
+        "7226 99 70 94"
+      ]
+    },
+    {
+      "order_number": "099715",
+      "quota_section": "4.A",
+      "product_group": "Metallic Coated Sheets",
+      "exporter": "Egypt",
+      "origins_summary": "Multiple origins",
+      "start_date": "01-07-2026",
+      "end_date": "30-09-2026",
+      "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099715",
+      "source_last_taric_update": "23-07-2026",
+      "initial_amount_mt": {
+        "value": 2943.83,
+        "unit": "MT",
+        "raw": "2943.83 MT"
+      },
+      "used_amount_mt": {
+        "value": 35.48,
+        "unit": "MT",
+        "raw": "35.48 MT"
+      },
+      "balance_mt": {
+        "value": 2908.34,
+        "unit": "MT",
+        "raw": "2908.34 MT"
+      },
+      "validity_period": "01-07-2026\n-\n30-09-2026",
+      "origin": "Egypt\nEuropean Union",
+      "initial_amount": {
+        "value": 2943830.0,
+        "unit": "Kilogram",
+        "raw": "2943830 Kilogram"
+      },
+      "current_amount": {
+        "value": 2943830.0,
+        "unit": "Kilogram",
+        "raw": "2943830 Kilogram"
+      },
+      "balance": {
+        "value": 2908345.0,
+        "unit": "Kilogram",
+        "raw": "2908345 Kilogram"
+      },
+      "used_amount": {
+        "value": 35485.0,
+        "unit": "Kilogram",
+        "raw": "35485.0"
+      },
+      "utilization_pct": 1.21,
+      "exhaustion_date": "",
+      "critical": "No",
+      "last_import_date": "16-07-2026",
+      "last_allocation_date": "20-07-2026",
+      "awaiting_allocation": "50767",
+      "awaiting_allocation_mt": {
+        "value": 50.77,
+        "unit": "MT",
+        "raw": "50.77 MT"
+      },
+      "blocking_period": "01-07-2026\n-\n14-07-2026",
+      "suspension_period": "",
+      "allocated_pct_last_allocation": "100",
+      "associated_taric_codes": [
+        "7210 41 00 20",
+        "7210 41 00 30",
+        "7210 49 00 20",
+        "7210 49 00 30",
+        "7210 61 00 20",
+        "7210 61 00 30",
+        "7210 69 00 20",
+        "7210 69 00 30",
+        "7212 30 00 20",
+        "7212 30 00 30",
+        "7212 50 20 00",
+        "7212 50 61 20",
+        "7212 50 61 30",
+        "7212 50 69 20",
+        "7212 50 69 30",
+        "7225 92 00 20",
+        "7225 92 00 30",
+        "7225 99 00 11",
+        "7225 99 00 22",
+        "7225 99 00 23",
+        "7225 99 00 41",
+        "7225 99 00 45",
+        "7225 99 00 91",
+        "7225 99 00 92",
+        "7225 99 00 93",
+        "7226 99 30 10",
+        "7226 99 30 30",
+        "7226 99 70 11",
+        "7226 99 70 13",
+        "7226 99 70 91",
+        "7226 99 70 93",
+        "7226 99 70 94"
+      ]
+    },
+    {
+      "order_number": "099717",
+      "quota_section": "4.A",
+      "product_group": "Metallic Coated Sheets",
+      "exporter": "South Africa",
+      "origins_summary": "Multiple origins",
+      "start_date": "01-07-2026",
+      "end_date": "30-09-2026",
+      "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099717",
+      "source_last_taric_update": "23-07-2026",
+      "initial_amount_mt": {
+        "value": 3150.34,
+        "unit": "MT",
+        "raw": "3150.34 MT"
+      },
+      "used_amount_mt": {
+        "value": 0.0,
+        "unit": "MT",
+        "raw": "0.00 MT"
+      },
+      "balance_mt": {
+        "value": 3150.34,
+        "unit": "MT",
+        "raw": "3150.34 MT"
+      },
+      "validity_period": "01-07-2026\n-\n30-09-2026",
+      "origin": "European Union\nSouth Africa",
+      "initial_amount": {
+        "value": 3150340.0,
+        "unit": "Kilogram",
+        "raw": "3150340 Kilogram"
+      },
+      "current_amount": {
+        "value": 3150340.0,
+        "unit": "Kilogram",
+        "raw": "3150340 Kilogram"
+      },
+      "balance": {
+        "value": 3150340.0,
+        "unit": "Kilogram",
+        "raw": "3150340 Kilogram"
+      },
+      "used_amount": {
+        "value": 0.0,
+        "unit": "Kilogram",
+        "raw": "0.0"
+      },
+      "utilization_pct": 0.0,
+      "exhaustion_date": "",
+      "critical": "No",
+      "last_import_date": "",
+      "last_allocation_date": "",
+      "awaiting_allocation": "0",
+      "awaiting_allocation_mt": {
+        "value": 0.0,
+        "unit": "MT",
+        "raw": "0.00 MT"
+      },
+      "blocking_period": "01-07-2026\n-\n14-07-2026",
+      "suspension_period": "",
+      "allocated_pct_last_allocation": "0",
+      "associated_taric_codes": [
+        "7210 41 00 20",
+        "7210 41 00 30",
+        "7210 49 00 20",
+        "7210 49 00 30",
+        "7210 61 00 20",
+        "7210 61 00 30",
+        "7210 69 00 20",
+        "7210 69 00 30",
+        "7212 30 00 20",
+        "7212 30 00 30",
+        "7212 50 20 00",
+        "7212 50 61 20",
+        "7212 50 61 30",
+        "7212 50 69 20",
+        "7212 50 69 30",
+        "7225 92 00 20",
+        "7225 92 00 30",
+        "7225 99 00 11",
+        "7225 99 00 22",
+        "7225 99 00 23",
+        "7225 99 00 41",
+        "7225 99 00 45",
+        "7225 99 00 91",
+        "7225 99 00 92",
+        "7225 99 00 93",
+        "7226 99 30 10",
+        "7226 99 30 30",
+        "7226 99 70 11",
+        "7226 99 70 13",
+        "7226 99 70 91",
+        "7226 99 70 93",
+        "7226 99 70 94"
+      ]
+    },
+    {
+      "order_number": "099714",
+      "quota_section": "4.A",
+      "product_group": "Metallic Coated Sheets",
+      "exporter": "FTA Quota - Other countries",
+      "origins_summary": "FTA partners",
+      "start_date": "01-07-2026",
+      "end_date": "30-09-2026",
+      "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099714",
+      "source_last_taric_update": "23-07-2026",
+      "initial_amount_mt": {
+        "value": 12761.32,
+        "unit": "MT",
+        "raw": "12761.32 MT"
+      },
+      "used_amount_mt": {
+        "value": 93.97,
+        "unit": "MT",
+        "raw": "93.97 MT"
+      },
+      "balance_mt": {
+        "value": 12667.35,
+        "unit": "MT",
+        "raw": "12667.35 MT"
+      },
+      "validity_period": "01-07-2026\n-\n30-09-2026",
+      "origin": "FTA partners",
+      "initial_amount": {
+        "value": 12761320.0,
+        "unit": "Kilogram",
+        "raw": "12761320 Kilogram"
+      },
+      "current_amount": {
+        "value": 12761320.0,
+        "unit": "Kilogram",
+        "raw": "12761320 Kilogram"
+      },
+      "balance": {
+        "value": 12667345.63,
+        "unit": "Kilogram",
+        "raw": "12667345.63 Kilogram"
+      },
+      "used_amount": {
+        "value": 93974.37,
+        "unit": "Kilogram",
+        "raw": "93974.37"
+      },
+      "utilization_pct": 0.74,
+      "exhaustion_date": "",
+      "critical": "No",
+      "last_import_date": "15-07-2026",
+      "last_allocation_date": "23-07-2026",
+      "awaiting_allocation": "6419948",
+      "awaiting_allocation_mt": {
+        "value": 6419.95,
+        "unit": "MT",
+        "raw": "6419.95 MT"
+      },
+      "blocking_period": "01-07-2026\n-\n14-07-2026",
+      "suspension_period": "",
+      "allocated_pct_last_allocation": "100",
+      "associated_taric_codes": [
+        "7210 41 00 20",
+        "7210 41 00 30",
+        "7210 49 00 20",
+        "7210 49 00 30",
+        "7210 61 00 20",
+        "7210 61 00 30",
+        "7210 69 00 20",
+        "7210 69 00 30",
+        "7212 30 00 20",
+        "7212 30 00 30",
+        "7212 50 20 00",
+        "7212 50 61 20",
+        "7212 50 61 30",
+        "7212 50 69 20",
+        "7212 50 69 30",
+        "7225 92 00 20",
+        "7225 92 00 30",
+        "7225 99 00 11",
+        "7225 99 00 22",
+        "7225 99 00 23",
+        "7225 99 00 41",
+        "7225 99 00 45",
+        "7225 99 00 91",
+        "7225 99 00 92",
+        "7225 99 00 93",
+        "7226 99 30 10",
+        "7226 99 30 30",
+        "7226 99 70 11",
+        "7226 99 70 13",
+        "7226 99 70 91",
+        "7226 99 70 93",
+        "7226 99 70 94"
+      ]
+    }
+  ]
+}
