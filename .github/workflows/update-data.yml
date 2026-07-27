@@ -7,8 +7,10 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
+
+concurrency:
+  group: scheduled-pages
+  cancel-in-progress: true
 
 jobs:
   update:
@@ -63,22 +65,3 @@ jobs:
           git diff --cached --quiet && exit 0
           git commit -m "Update EU steel TRQ data"
           git push
-
-      - name: Configure Pages
-        if: github.event_name != 'schedule' || steps.time_gate.outcome == 'success'
-        uses: actions/configure-pages@v5
-
-      - name: Build static site
-        if: github.event_name != 'schedule' || steps.time_gate.outcome == 'success'
-        run: node scripts/build.mjs
-
-      - name: Upload Pages artifact
-        if: github.event_name != 'schedule' || steps.time_gate.outcome == 'success'
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: ./dist
-
-      - name: Deploy to GitHub Pages
-        if: github.event_name != 'schedule' || steps.time_gate.outcome == 'success'
-        id: deployment
-        uses: actions/deploy-pages@v4
