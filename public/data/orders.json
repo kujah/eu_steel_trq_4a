@@ -1,6 +1,6 @@
 {
   "title": "EU STEEL TRQ 4A 소진 현황",
-  "generated_at_utc": "2026-07-28T10:16:34.908102+00:00",
+  "generated_at_utc": "2026-08-01T12:14:09.069088+00:00",
   "source": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_consultation.jsp?Lang=en",
   "year_filter": 2026,
   "order_numbers": [
@@ -30,21 +30,21 @@
       "start_date": "01-07-2026",
       "end_date": "30-09-2026",
       "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099605",
-      "source_last_taric_update": "27-07-2026",
+      "source_last_taric_update": "31-07-2026",
       "initial_amount_mt": {
         "value": 33338.76,
         "unit": "MT",
         "raw": "33338.76 MT"
       },
       "used_amount_mt": {
-        "value": 17065.95,
+        "value": 33338.76,
         "unit": "MT",
-        "raw": "17065.95 MT"
+        "raw": "33338.76 MT"
       },
       "balance_mt": {
-        "value": 16272.81,
+        "value": 0.0,
         "unit": "MT",
-        "raw": "16272.81 MT"
+        "raw": "0.00 MT"
       },
       "validity_period": "01-07-2026\n-\n30-09-2026",
       "origin": "ERGA OMNES",
@@ -59,29 +59,29 @@
         "raw": "33338760 Kilogram"
       },
       "balance": {
-        "value": 16272813.344,
+        "value": 0.0,
         "unit": "Kilogram",
-        "raw": "16272813.344 Kilogram"
+        "raw": "0 Kilogram"
       },
       "used_amount": {
-        "value": 17065946.66,
+        "value": 33338760.0,
         "unit": "Kilogram",
-        "raw": "17065946.66"
+        "raw": "33338760.0"
       },
-      "utilization_pct": 51.19,
-      "exhaustion_date": "",
+      "utilization_pct": 100.0,
+      "exhaustion_date": "29-07-2026",
       "critical": "No",
-      "last_import_date": "23-07-2026",
-      "last_allocation_date": "27-07-2026",
-      "awaiting_allocation": "524979",
+      "last_import_date": "29-07-2026",
+      "last_allocation_date": "31-07-2026",
+      "awaiting_allocation": "3176045",
       "awaiting_allocation_mt": {
-        "value": 524.98,
+        "value": 3176.05,
         "unit": "MT",
-        "raw": "524.98 MT"
+        "raw": "3176.05 MT"
       },
       "blocking_period": "01-07-2026\n-\n14-07-2026",
       "suspension_period": "",
-      "allocated_pct_last_allocation": "100",
+      "allocated_pct_last_allocation": "90.192",
       "associated_taric_codes": [
         "7210 41 00 20",
         "7210 41 00 30",
@@ -126,21 +126,21 @@
       "start_date": "01-07-2026",
       "end_date": "30-09-2026",
       "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099836",
-      "source_last_taric_update": "27-07-2026",
+      "source_last_taric_update": "31-07-2026",
       "initial_amount_mt": {
         "value": 26119.93,
         "unit": "MT",
         "raw": "26119.93 MT"
       },
       "used_amount_mt": {
-        "value": 13275.15,
+        "value": 15551.44,
         "unit": "MT",
-        "raw": "13275.15 MT"
+        "raw": "15551.44 MT"
       },
       "balance_mt": {
-        "value": 12844.78,
+        "value": 10568.49,
         "unit": "MT",
-        "raw": "12844.78 MT"
+        "raw": "10568.49 MT"
       },
       "validity_period": "01-07-2026\n-\n30-09-2026",
       "origin": "European Union\nKorea, Republic of (South Korea)",
@@ -155,25 +155,25 @@
         "raw": "26119930 Kilogram"
       },
       "balance": {
-        "value": 12844781.467,
+        "value": 10568490.497,
         "unit": "Kilogram",
-        "raw": "12844781.467 Kilogram"
+        "raw": "10568490.497 Kilogram"
       },
       "used_amount": {
-        "value": 13275148.53,
+        "value": 15551439.5,
         "unit": "Kilogram",
-        "raw": "13275148.53"
+        "raw": "15551439.5"
       },
-      "utilization_pct": 50.82,
+      "utilization_pct": 59.54,
       "exhaustion_date": "",
       "critical": "No",
-      "last_import_date": "23-07-2026",
-      "last_allocation_date": "27-07-2026",
-      "awaiting_allocation": "117098",
+      "last_import_date": "29-07-2026",
+      "last_allocation_date": "31-07-2026",
+      "awaiting_allocation": "1424510",
       "awaiting_allocation_mt": {
-        "value": 117.1,
+        "value": 1424.51,
         "unit": "MT",
-        "raw": "117.10 MT"
+        "raw": "1424.51 MT"
       },
       "blocking_period": "01-07-2026\n-\n14-07-2026",
       "suspension_period": "",
@@ -222,21 +222,21 @@
       "start_date": "01-07-2026",
       "end_date": "30-09-2026",
       "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099832",
-      "source_last_taric_update": "27-07-2026",
+      "source_last_taric_update": "31-07-2026",
       "initial_amount_mt": {
         "value": 117496.92,
         "unit": "MT",
         "raw": "117496.92 MT"
       },
       "used_amount_mt": {
-        "value": 19276.66,
+        "value": 19291.28,
         "unit": "MT",
-        "raw": "19276.66 MT"
+        "raw": "19291.28 MT"
       },
       "balance_mt": {
-        "value": 98220.26,
+        "value": 98205.64,
         "unit": "MT",
-        "raw": "98220.26 MT"
+        "raw": "98205.64 MT"
       },
       "validity_period": "01-07-2026\n-\n30-09-2026",
       "origin": "European Union\nViet Nam",
@@ -251,25 +251,25 @@
         "raw": "117496920 Kilogram"
       },
       "balance": {
-        "value": 98220263.0,
+        "value": 98205643.0,
         "unit": "Kilogram",
-        "raw": "98220263 Kilogram"
+        "raw": "98205643 Kilogram"
       },
       "used_amount": {
-        "value": 19276657.0,
+        "value": 19291277.0,
         "unit": "Kilogram",
-        "raw": "19276657.0"
+        "raw": "19291277.0"
       },
-      "utilization_pct": 16.41,
+      "utilization_pct": 16.42,
       "exhaustion_date": "",
       "critical": "No",
-      "last_import_date": "22-07-2026",
-      "last_allocation_date": "24-07-2026",
-      "awaiting_allocation": "0",
+      "last_import_date": "28-07-2026",
+      "last_allocation_date": "30-07-2026",
+      "awaiting_allocation": "24935",
       "awaiting_allocation_mt": {
-        "value": 0.0,
+        "value": 24.93,
         "unit": "MT",
-        "raw": "0.00 MT"
+        "raw": "24.93 MT"
       },
       "blocking_period": "01-07-2026\n-\n14-07-2026",
       "suspension_period": "",
@@ -318,21 +318,21 @@
       "start_date": "01-07-2026",
       "end_date": "30-09-2026",
       "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099833",
-      "source_last_taric_update": "27-07-2026",
+      "source_last_taric_update": "31-07-2026",
       "initial_amount_mt": {
         "value": 33783.39,
         "unit": "MT",
         "raw": "33783.39 MT"
       },
       "used_amount_mt": {
-        "value": 18634.53,
+        "value": 18718.24,
         "unit": "MT",
-        "raw": "18634.53 MT"
+        "raw": "18718.24 MT"
       },
       "balance_mt": {
-        "value": 15148.86,
+        "value": 15065.15,
         "unit": "MT",
-        "raw": "15148.86 MT"
+        "raw": "15065.15 MT"
       },
       "validity_period": "01-07-2026\n-\n30-09-2026",
       "origin": "European Union\nTaiwan",
@@ -347,25 +347,25 @@
         "raw": "33783390 Kilogram"
       },
       "balance": {
-        "value": 15148855.627,
+        "value": 15065145.627,
         "unit": "Kilogram",
-        "raw": "15148855.627 Kilogram"
+        "raw": "15065145.627 Kilogram"
       },
       "used_amount": {
-        "value": 18634534.37,
+        "value": 18718244.37,
         "unit": "Kilogram",
-        "raw": "18634534.37"
+        "raw": "18718244.37"
       },
-      "utilization_pct": 55.16,
+      "utilization_pct": 55.41,
       "exhaustion_date": "",
       "critical": "No",
-      "last_import_date": "23-07-2026",
-      "last_allocation_date": "27-07-2026",
-      "awaiting_allocation": "75860",
+      "last_import_date": "28-07-2026",
+      "last_allocation_date": "30-07-2026",
+      "awaiting_allocation": "6636",
       "awaiting_allocation_mt": {
-        "value": 75.86,
+        "value": 6.64,
         "unit": "MT",
-        "raw": "75.86 MT"
+        "raw": "6.64 MT"
       },
       "blocking_period": "01-07-2026\n-\n14-07-2026",
       "suspension_period": "",
@@ -414,7 +414,7 @@
       "start_date": "01-07-2026",
       "end_date": "30-09-2026",
       "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099834",
-      "source_last_taric_update": "27-07-2026",
+      "source_last_taric_update": "31-07-2026",
       "initial_amount_mt": {
         "value": 63925.33,
         "unit": "MT",
@@ -456,7 +456,7 @@
       "exhaustion_date": "01-07-2026",
       "critical": "No",
       "last_import_date": "01-07-2026",
-      "last_allocation_date": "24-07-2026",
+      "last_allocation_date": "30-07-2026",
       "awaiting_allocation": "0",
       "awaiting_allocation_mt": {
         "value": 0.0,
@@ -510,21 +510,21 @@
       "start_date": "01-07-2026",
       "end_date": "30-09-2026",
       "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099835",
-      "source_last_taric_update": "27-07-2026",
+      "source_last_taric_update": "31-07-2026",
       "initial_amount_mt": {
         "value": 58295.85,
         "unit": "MT",
         "raw": "58295.85 MT"
       },
       "used_amount_mt": {
-        "value": 5703.73,
+        "value": 7825.78,
         "unit": "MT",
-        "raw": "5703.73 MT"
+        "raw": "7825.78 MT"
       },
       "balance_mt": {
-        "value": 52592.12,
+        "value": 50470.07,
         "unit": "MT",
-        "raw": "52592.12 MT"
+        "raw": "50470.07 MT"
       },
       "validity_period": "01-07-2026\n-\n30-09-2026",
       "origin": "European Union\nIndia",
@@ -539,25 +539,25 @@
         "raw": "58295850 Kilogram"
       },
       "balance": {
-        "value": 52592115.095,
+        "value": 50470072.095,
         "unit": "Kilogram",
-        "raw": "52592115.095 Kilogram"
+        "raw": "50470072.095 Kilogram"
       },
       "used_amount": {
-        "value": 5703734.91,
+        "value": 7825777.91,
         "unit": "Kilogram",
-        "raw": "5703734.91"
+        "raw": "7825777.91"
       },
-      "utilization_pct": 9.78,
+      "utilization_pct": 13.42,
       "exhaustion_date": "",
       "critical": "No",
-      "last_import_date": "22-07-2026",
-      "last_allocation_date": "24-07-2026",
-      "awaiting_allocation": "878885",
+      "last_import_date": "29-07-2026",
+      "last_allocation_date": "31-07-2026",
+      "awaiting_allocation": "980857",
       "awaiting_allocation_mt": {
-        "value": 878.88,
+        "value": 980.86,
         "unit": "MT",
-        "raw": "878.88 MT"
+        "raw": "980.86 MT"
       },
       "blocking_period": "01-07-2026\n-\n14-07-2026",
       "suspension_period": "",
@@ -606,7 +606,7 @@
       "start_date": "01-07-2026",
       "end_date": "30-09-2026",
       "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099505",
-      "source_last_taric_update": "27-07-2026",
+      "source_last_taric_update": "31-07-2026",
       "initial_amount_mt": {
         "value": 38881.49,
         "unit": "MT",
@@ -702,21 +702,21 @@
       "start_date": "01-07-2026",
       "end_date": "30-09-2026",
       "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099718",
-      "source_last_taric_update": "27-07-2026",
+      "source_last_taric_update": "31-07-2026",
       "initial_amount_mt": {
         "value": 11600.08,
         "unit": "MT",
         "raw": "11600.08 MT"
       },
       "used_amount_mt": {
-        "value": 7071.49,
+        "value": 7994.35,
         "unit": "MT",
-        "raw": "7071.49 MT"
+        "raw": "7994.35 MT"
       },
       "balance_mt": {
-        "value": 4528.59,
+        "value": 3605.73,
         "unit": "MT",
-        "raw": "4528.59 MT"
+        "raw": "3605.73 MT"
       },
       "validity_period": "01-07-2026\n-\n30-09-2026",
       "origin": "European Union\nUnited Kingdom",
@@ -731,25 +731,25 @@
         "raw": "11600080 Kilogram"
       },
       "balance": {
-        "value": 4528589.164,
+        "value": 3605727.023,
         "unit": "Kilogram",
-        "raw": "4528589.164 Kilogram"
+        "raw": "3605727.023 Kilogram"
       },
       "used_amount": {
-        "value": 7071490.84,
+        "value": 7994352.98,
         "unit": "Kilogram",
-        "raw": "7071490.84"
+        "raw": "7994352.98"
       },
-      "utilization_pct": 60.96,
+      "utilization_pct": 68.92,
       "exhaustion_date": "",
       "critical": "No",
-      "last_import_date": "23-07-2026",
-      "last_allocation_date": "27-07-2026",
-      "awaiting_allocation": "566424",
+      "last_import_date": "29-07-2026",
+      "last_allocation_date": "31-07-2026",
+      "awaiting_allocation": "314169",
       "awaiting_allocation_mt": {
-        "value": 566.42,
+        "value": 314.17,
         "unit": "MT",
-        "raw": "566.42 MT"
+        "raw": "314.17 MT"
       },
       "blocking_period": "01-07-2026\n-\n14-07-2026",
       "suspension_period": "",
@@ -798,7 +798,7 @@
       "start_date": "01-07-2026",
       "end_date": "30-09-2026",
       "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099716",
-      "source_last_taric_update": "27-07-2026",
+      "source_last_taric_update": "31-07-2026",
       "initial_amount_mt": {
         "value": 2874.21,
         "unit": "MT",
@@ -894,21 +894,21 @@
       "start_date": "01-07-2026",
       "end_date": "30-09-2026",
       "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099715",
-      "source_last_taric_update": "27-07-2026",
+      "source_last_taric_update": "31-07-2026",
       "initial_amount_mt": {
         "value": 2943.83,
         "unit": "MT",
         "raw": "2943.83 MT"
       },
       "used_amount_mt": {
-        "value": 86.25,
+        "value": 108.21,
         "unit": "MT",
-        "raw": "86.25 MT"
+        "raw": "108.21 MT"
       },
       "balance_mt": {
-        "value": 2857.58,
+        "value": 2835.62,
         "unit": "MT",
-        "raw": "2857.58 MT"
+        "raw": "2835.62 MT"
       },
       "validity_period": "01-07-2026\n-\n30-09-2026",
       "origin": "Egypt\nEuropean Union",
@@ -923,25 +923,25 @@
         "raw": "2943830 Kilogram"
       },
       "balance": {
-        "value": 2857578.0,
+        "value": 2835618.0,
         "unit": "Kilogram",
-        "raw": "2857578 Kilogram"
+        "raw": "2835618 Kilogram"
       },
       "used_amount": {
-        "value": 86252.0,
+        "value": 108212.0,
         "unit": "Kilogram",
-        "raw": "86252.0"
+        "raw": "108212.0"
       },
-      "utilization_pct": 2.93,
+      "utilization_pct": 3.68,
       "exhaustion_date": "",
       "critical": "No",
-      "last_import_date": "23-07-2026",
-      "last_allocation_date": "27-07-2026",
-      "awaiting_allocation": "21960",
+      "last_import_date": "25-07-2026",
+      "last_allocation_date": "29-07-2026",
+      "awaiting_allocation": "0",
       "awaiting_allocation_mt": {
-        "value": 21.96,
+        "value": 0.0,
         "unit": "MT",
-        "raw": "21.96 MT"
+        "raw": "0.00 MT"
       },
       "blocking_period": "01-07-2026\n-\n14-07-2026",
       "suspension_period": "",
@@ -990,21 +990,21 @@
       "start_date": "01-07-2026",
       "end_date": "30-09-2026",
       "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099717",
-      "source_last_taric_update": "27-07-2026",
+      "source_last_taric_update": "31-07-2026",
       "initial_amount_mt": {
         "value": 3150.34,
         "unit": "MT",
         "raw": "3150.34 MT"
       },
       "used_amount_mt": {
-        "value": 0.0,
+        "value": 55.16,
         "unit": "MT",
-        "raw": "0.00 MT"
+        "raw": "55.16 MT"
       },
       "balance_mt": {
-        "value": 3150.34,
+        "value": 3095.18,
         "unit": "MT",
-        "raw": "3150.34 MT"
+        "raw": "3095.18 MT"
       },
       "validity_period": "01-07-2026\n-\n30-09-2026",
       "origin": "European Union\nSouth Africa",
@@ -1019,29 +1019,29 @@
         "raw": "3150340 Kilogram"
       },
       "balance": {
-        "value": 3150340.0,
+        "value": 3095177.0,
         "unit": "Kilogram",
-        "raw": "3150340 Kilogram"
+        "raw": "3095177 Kilogram"
       },
       "used_amount": {
-        "value": 0.0,
+        "value": 55163.0,
         "unit": "Kilogram",
-        "raw": "0.0"
+        "raw": "55163.0"
       },
-      "utilization_pct": 0.0,
+      "utilization_pct": 1.75,
       "exhaustion_date": "",
       "critical": "No",
-      "last_import_date": "",
-      "last_allocation_date": "",
-      "awaiting_allocation": "8470",
+      "last_import_date": "29-07-2026",
+      "last_allocation_date": "31-07-2026",
+      "awaiting_allocation": "0",
       "awaiting_allocation_mt": {
-        "value": 8.47,
+        "value": 0.0,
         "unit": "MT",
-        "raw": "8.47 MT"
+        "raw": "0.00 MT"
       },
       "blocking_period": "01-07-2026\n-\n14-07-2026",
       "suspension_period": "",
-      "allocated_pct_last_allocation": "0",
+      "allocated_pct_last_allocation": "100",
       "associated_taric_codes": [
         "7210 41 00 20",
         "7210 41 00 30",
@@ -1086,21 +1086,21 @@
       "start_date": "01-07-2026",
       "end_date": "30-09-2026",
       "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099714",
-      "source_last_taric_update": "27-07-2026",
+      "source_last_taric_update": "31-07-2026",
       "initial_amount_mt": {
         "value": 12761.32,
         "unit": "MT",
         "raw": "12761.32 MT"
       },
       "used_amount_mt": {
-        "value": 6513.92,
+        "value": 6537.05,
         "unit": "MT",
-        "raw": "6513.92 MT"
+        "raw": "6537.05 MT"
       },
       "balance_mt": {
-        "value": 6247.4,
+        "value": 6224.27,
         "unit": "MT",
-        "raw": "6247.40 MT"
+        "raw": "6224.27 MT"
       },
       "validity_period": "01-07-2026\n-\n30-09-2026",
       "origin": "FTA partners",
@@ -1115,20 +1115,20 @@
         "raw": "12761320 Kilogram"
       },
       "balance": {
-        "value": 6247397.63,
+        "value": 6224267.63,
         "unit": "Kilogram",
-        "raw": "6247397.63 Kilogram"
+        "raw": "6224267.63 Kilogram"
       },
       "used_amount": {
-        "value": 6513922.37,
+        "value": 6537052.37,
         "unit": "Kilogram",
-        "raw": "6513922.37"
+        "raw": "6537052.37"
       },
-      "utilization_pct": 51.04,
+      "utilization_pct": 51.23,
       "exhaustion_date": "",
       "critical": "No",
-      "last_import_date": "22-07-2026",
-      "last_allocation_date": "24-07-2026",
+      "last_import_date": "27-07-2026",
+      "last_allocation_date": "29-07-2026",
       "awaiting_allocation": "0",
       "awaiting_allocation_mt": {
         "value": 0.0,
