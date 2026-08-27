@@ -164,7 +164,7 @@ async function loadData() {
 
   allData = await response.json();
   categories = allData.categories || [];
-  activeKey = categories[0]?.key || null;
+  activeKey = categories.find((category) => category.key === "4A")?.key || categories[0]?.key || null;
   renderTabs();
   applySearch();
 }
