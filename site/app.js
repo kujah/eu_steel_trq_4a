@@ -3,22 +3,9 @@ const numberFmt = new Intl.NumberFormat("en-US", {
   maximumFractionDigits: 2,
 });
 
-const EXPORTER_ORDER = [
-  "Other countries",
-  "Korea",
-  "Viet Nam",
-  "Taiwan",
-  "Turkiye",
-  "India",
-  "FTA Quota - CSQ",
-  "United Kingdom",
-  "Japan",
-  "Egypt",
-  "South Africa",
-  "FTA Quota - Other countries",
-];
-
-let baseItems = [];
+let allData = null;
+let categories = [];
+let activeKey = null;
 
 function formatQuantity(quantity) {
   if (!quantity || quantity.value == null) return "-";
@@ -42,11 +29,27 @@ function parseSearchTarget(item) {
     .toLowerCase();
 }
 
-function sortItems(items) {
-  const rank = new Map(EXPORTER_ORDER.map((name, index) => [name, index]));
-  return [...items].sort(
-    (a, b) => (rank.get(a.exporter) ?? 999) - (rank.get(b.exporter) ?? 999),
-  );
+function getActiveCategory() {
+  return categories.find((category) => category.key === activeKey) || categories[0];
+}
+
+function renderTabs() {
+  const tabs = document.getElementById("tabs");
+  tabs.innerHTML = categories
+    .map((category) => {
+      const label = `${category.quota_section} ${category.product_group}`;
+      const isActive = category.key === activeKey;
+      return `<button type="button" class="tab${isActive ? " tab--active" : ""}" data-key="${category.key}">${label}</button>`;
+    })
+    .join("");
+
+  tabs.querySelectorAll(".tab").forEach((button) => {
+    button.addEventListener("click", () => {
+      activeKey = button.dataset.key;
+      renderTabs();
+      applySearch();
+    });
+  });
 }
 
 function renderSummary(items) {
@@ -126,12 +129,12 @@ function renderTable(items) {
     .join("");
 }
 
-function renderMeta(data) {
-  document.getElementById("generatedAt").textContent = new Date(data.generated_at_utc).toLocaleString();
-  document.getElementById("quotaMeta").textContent = `${data.quota_section} | ${data.product_group}`;
-  document.getElementById("reportPeriod").textContent = data.report_period || "-";
+function renderMeta(category) {
+  document.getElementById("generatedAt").textContent = new Date(allData.generated_at_utc).toLocaleString();
+  document.getElementById("quotaMeta").textContent = `${category.quota_section} | ${category.product_group}`;
+  document.getElementById("reportPeriod").textContent = category.report_period || "-";
 
-  const sourceUpdate = data.items
+  const sourceUpdate = category.items
     .map((item) => item.source_last_taric_update)
     .filter(Boolean)
     .sort()
@@ -141,10 +144,13 @@ function renderMeta(data) {
 }
 
 function applySearch() {
+  const category = getActiveCategory();
   const term = document.getElementById("searchInput").value.trim().toLowerCase();
   const items = !term
-    ? baseItems
-    : baseItems.filter((item) => parseSearchTarget(item).includes(term));
+    ? category.items
+    : category.items.filter((item) => parseSearchTarget(item).includes(term));
+
+  renderMeta(category);
   renderSummary(items);
   renderCards(items);
   renderTable(items);
@@ -156,9 +162,10 @@ async function loadData() {
     throw new Error(`Request failed: ${response.status}`);
   }
 
-  const data = await response.json();
-  baseItems = sortItems(data.items);
-  renderMeta(data);
+  allData = await response.json();
+  categories = allData.categories || [];
+  activeKey = categories[0]?.key || null;
+  renderTabs();
   applySearch();
 }
 

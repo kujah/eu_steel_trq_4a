@@ -11,7 +11,7 @@ export default async function build() {
   const stylesCss = await readFile(path.join(site, "styles.css"), "utf-8");
   const appJs = await readFile(path.join(site, "app.js"), "utf-8");
   const ordersJson = await readFile(path.join(data, "orders.json"), "utf-8");
-  const workbookBase64 = await readFile(path.join(data, "eu-steel-trq-4a-dashboard.xlsx"), "base64");
+  const workbookBase64 = await readFile(path.join(data, "eu-steel-trq-flat-dashboard.xlsx"), "base64");
 
   await rm(dist, { recursive: true, force: true });
   await mkdir(dist, { recursive: true });
@@ -57,7 +57,7 @@ export default {
   async fetch(request) {
     const url = new URL(request.url);
 
-    if (url.pathname === "/data/eu-steel-trq-4a-dashboard.xlsx") {
+    if (url.pathname === "/data/eu-steel-trq-flat-dashboard.xlsx") {
       return new Response(decodeBase64(WORKBOOK_BASE64), {
         headers: {
           "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
