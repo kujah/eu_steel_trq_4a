@@ -1,6 +1,6 @@
 {
   "title": "EU STEEL TRQ 판재류 소진 현황",
-  "generated_at_utc": "2026-09-08T19:46:47.528412+00:00",
+  "generated_at_utc": "2026-09-09T19:38:47.535449+00:00",
   "source": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_consultation.jsp?Lang=en",
   "year_filter": 2026,
   "categories": [
@@ -41,7 +41,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099801",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 160573.74,
             "unit": "MT",
@@ -132,7 +132,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099802",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 137884.78,
             "unit": "MT",
@@ -175,11 +175,11 @@
           "critical": "No",
           "last_import_date": "03-09-2026",
           "last_allocation_date": "07-09-2026",
-          "awaiting_allocation": "18475",
+          "awaiting_allocation": "18611",
           "awaiting_allocation_mt": {
-            "value": 18.48,
+            "value": 18.61,
             "unit": "MT",
-            "raw": "18.48 MT"
+            "raw": "18.61 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -223,7 +223,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099803",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 149318.61,
             "unit": "MT",
@@ -314,7 +314,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099804",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 69730.64,
             "unit": "MT",
@@ -405,7 +405,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099805",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 120882.35,
             "unit": "MT",
@@ -448,11 +448,11 @@
           "critical": "No",
           "last_import_date": "03-09-2026",
           "last_allocation_date": "07-09-2026",
-          "awaiting_allocation": "1295330",
+          "awaiting_allocation": "1485110",
           "awaiting_allocation_mt": {
-            "value": 1295.33,
+            "value": 1485.11,
             "unit": "MT",
-            "raw": "1295.33 MT"
+            "raw": "1485.11 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -496,7 +496,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099806",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 115457.52,
             "unit": "MT",
@@ -539,11 +539,11 @@
           "critical": "No",
           "last_import_date": "31-08-2026",
           "last_allocation_date": "02-09-2026",
-          "awaiting_allocation": "913000",
+          "awaiting_allocation": "997990",
           "awaiting_allocation_mt": {
-            "value": 913.0,
+            "value": 997.99,
             "unit": "MT",
-            "raw": "913.00 MT"
+            "raw": "997.99 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -587,7 +587,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099807",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 103743.08,
             "unit": "MT",
@@ -630,11 +630,11 @@
           "critical": "Yes",
           "last_import_date": "28-08-2026",
           "last_allocation_date": "04-09-2026",
-          "awaiting_allocation": "0",
+          "awaiting_allocation": "4897178",
           "awaiting_allocation_mt": {
-            "value": 0.0,
+            "value": 4897.18,
             "unit": "MT",
-            "raw": "0.00 MT"
+            "raw": "4897.18 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -678,7 +678,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099808",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 101232.21,
             "unit": "MT",
@@ -721,11 +721,11 @@
           "critical": "No",
           "last_import_date": "26-08-2026",
           "last_allocation_date": "28-08-2026",
-          "awaiting_allocation": "22862193",
+          "awaiting_allocation": "28152645",
           "awaiting_allocation_mt": {
-            "value": 22862.19,
+            "value": 28152.65,
             "unit": "MT",
-            "raw": "22862.19 MT"
+            "raw": "28152.65 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -769,7 +769,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099809",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 64523.65,
             "unit": "MT",
@@ -812,11 +812,11 @@
           "critical": "No",
           "last_import_date": "04-09-2026",
           "last_allocation_date": "08-09-2026",
-          "awaiting_allocation": "5299061",
+          "awaiting_allocation": "5447742",
           "awaiting_allocation_mt": {
-            "value": 5299.06,
+            "value": 5447.74,
             "unit": "MT",
-            "raw": "5299.06 MT"
+            "raw": "5447.74 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -860,7 +860,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099500",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 120920.56,
             "unit": "MT",
@@ -951,7 +951,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099701",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 42512.75,
             "unit": "MT",
@@ -994,11 +994,11 @@
           "critical": "No",
           "last_import_date": "03-09-2026",
           "last_allocation_date": "07-09-2026",
-          "awaiting_allocation": "0",
+          "awaiting_allocation": "19383",
           "awaiting_allocation_mt": {
-            "value": 0.0,
+            "value": 19.38,
             "unit": "MT",
-            "raw": "0.00 MT"
+            "raw": "19.38 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -1042,7 +1042,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099705",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 38481.14,
             "unit": "MT",
@@ -1085,11 +1085,11 @@
           "critical": "No",
           "last_import_date": "04-09-2026",
           "last_allocation_date": "08-09-2026",
-          "awaiting_allocation": "73831",
+          "awaiting_allocation": "173778",
           "awaiting_allocation_mt": {
-            "value": 73.83,
+            "value": 173.78,
             "unit": "MT",
-            "raw": "73.83 MT"
+            "raw": "173.78 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -1133,7 +1133,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099702",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 31834.46,
             "unit": "MT",
@@ -1224,7 +1224,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099810",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 11830.05,
             "unit": "MT",
@@ -1315,7 +1315,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099811",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 9545.08,
             "unit": "MT",
@@ -1406,7 +1406,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099704",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 5472.5,
             "unit": "MT",
@@ -1449,11 +1449,11 @@
           "critical": "No",
           "last_import_date": "04-09-2026",
           "last_allocation_date": "08-09-2026",
-          "awaiting_allocation": "2280",
+          "awaiting_allocation": "4829",
           "awaiting_allocation_mt": {
-            "value": 2.28,
+            "value": 4.83,
             "unit": "MT",
-            "raw": "2.28 MT"
+            "raw": "4.83 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -1497,7 +1497,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099812",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 2377.67,
             "unit": "MT",
@@ -1588,7 +1588,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099703",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 3531.91,
             "unit": "MT",
@@ -1679,7 +1679,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099600",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 5564.01,
             "unit": "MT",
@@ -1770,7 +1770,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099700",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 4271.87,
             "unit": "MT",
@@ -1878,7 +1878,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099813",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 526.03,
             "unit": "MT",
@@ -1943,7 +1943,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099814",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 127.34,
             "unit": "MT",
@@ -2008,7 +2008,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099815",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 243.93,
             "unit": "MT",
@@ -2073,7 +2073,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099816",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 35.59,
             "unit": "MT",
@@ -2138,7 +2138,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099501",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 106.52,
             "unit": "MT",
@@ -2201,7 +2201,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099601",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 44.89,
             "unit": "MT",
@@ -2266,7 +2266,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099706",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 60.94,
             "unit": "MT",
@@ -2354,7 +2354,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099817",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 33586.54,
             "unit": "MT",
@@ -2397,11 +2397,11 @@
           "critical": "No",
           "last_import_date": "28-08-2026",
           "last_allocation_date": "01-09-2026",
-          "awaiting_allocation": "0",
+          "awaiting_allocation": "9461",
           "awaiting_allocation_mt": {
-            "value": 0.0,
+            "value": 9.46,
             "unit": "MT",
-            "raw": "0.00 MT"
+            "raw": "9.46 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -2438,7 +2438,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099818",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 67493.58,
             "unit": "MT",
@@ -2481,11 +2481,11 @@
           "critical": "No",
           "last_import_date": "04-09-2026",
           "last_allocation_date": "08-09-2026",
-          "awaiting_allocation": "25751",
+          "awaiting_allocation": "31672",
           "awaiting_allocation_mt": {
-            "value": 25.75,
+            "value": 31.67,
             "unit": "MT",
-            "raw": "25.75 MT"
+            "raw": "31.67 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -2522,7 +2522,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099819",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 63652.67,
             "unit": "MT",
@@ -2565,11 +2565,11 @@
           "critical": "No",
           "last_import_date": "04-09-2026",
           "last_allocation_date": "08-09-2026",
-          "awaiting_allocation": "1531140",
+          "awaiting_allocation": "2756415",
           "awaiting_allocation_mt": {
-            "value": 1531.14,
+            "value": 2756.41,
             "unit": "MT",
-            "raw": "1531.14 MT"
+            "raw": "2756.41 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -2606,7 +2606,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099820",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 60152.91,
             "unit": "MT",
@@ -2690,7 +2690,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099821",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 19834.63,
             "unit": "MT",
@@ -2733,11 +2733,11 @@
           "critical": "No",
           "last_import_date": "31-08-2026",
           "last_allocation_date": "03-09-2026",
-          "awaiting_allocation": "16276",
+          "awaiting_allocation": "26455",
           "awaiting_allocation_mt": {
-            "value": 16.28,
+            "value": 26.45,
             "unit": "MT",
-            "raw": "16.28 MT"
+            "raw": "26.45 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -2774,7 +2774,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099822",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 29457.81,
             "unit": "MT",
@@ -2817,11 +2817,11 @@
           "critical": "No",
           "last_import_date": "04-09-2026",
           "last_allocation_date": "08-09-2026",
-          "awaiting_allocation": "15798",
+          "awaiting_allocation": "61521",
           "awaiting_allocation_mt": {
-            "value": 15.8,
+            "value": 61.52,
             "unit": "MT",
-            "raw": "15.80 MT"
+            "raw": "61.52 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -2858,7 +2858,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099823",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 26549.48,
             "unit": "MT",
@@ -2901,11 +2901,11 @@
           "critical": "Yes",
           "last_import_date": "04-09-2026",
           "last_allocation_date": "08-09-2026",
-          "awaiting_allocation": "438690",
+          "awaiting_allocation": "600456",
           "awaiting_allocation_mt": {
-            "value": 438.69,
+            "value": 600.46,
             "unit": "MT",
-            "raw": "438.69 MT"
+            "raw": "600.46 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -2942,7 +2942,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099502",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 33670.61,
             "unit": "MT",
@@ -3005,7 +3005,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099602",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 24933.92,
             "unit": "MT",
@@ -3087,7 +3087,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099707",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 21283.6,
             "unit": "MT",
@@ -3171,7 +3171,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099709",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 1294.54,
             "unit": "MT",
@@ -3255,7 +3255,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099710",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 745.65,
             "unit": "MT",
@@ -3298,11 +3298,11 @@
           "critical": "No",
           "last_import_date": "04-09-2026",
           "last_allocation_date": "08-09-2026",
-          "awaiting_allocation": "23897",
+          "awaiting_allocation": "26621",
           "awaiting_allocation_mt": {
-            "value": 23.9,
+            "value": 26.62,
             "unit": "MT",
-            "raw": "23.90 MT"
+            "raw": "26.62 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -3339,7 +3339,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099708",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 3533.82,
             "unit": "MT",
@@ -3440,7 +3440,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099824",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 77.95,
             "unit": "MT",
@@ -3510,7 +3510,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099825",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 19.56,
             "unit": "MT",
@@ -3580,7 +3580,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099826",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 4.98,
             "unit": "MT",
@@ -3650,7 +3650,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099827",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 8.69,
             "unit": "MT",
@@ -3720,7 +3720,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099503",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 29.05,
             "unit": "MT",
@@ -3783,7 +3783,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099603",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 7.27,
             "unit": "MT",
@@ -3853,7 +3853,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099711",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 5.43,
             "unit": "MT",
@@ -3941,7 +3941,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099828",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 11837.81,
             "unit": "MT",
@@ -4007,7 +4007,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099829",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 5166.66,
             "unit": "MT",
@@ -4073,7 +4073,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099830",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 15495.38,
             "unit": "MT",
@@ -4116,11 +4116,11 @@
           "critical": "No",
           "last_import_date": "27-08-2026",
           "last_allocation_date": "31-08-2026",
-          "awaiting_allocation": "853270",
+          "awaiting_allocation": "1101090",
           "awaiting_allocation_mt": {
-            "value": 853.27,
+            "value": 1101.09,
             "unit": "MT",
-            "raw": "853.27 MT"
+            "raw": "1101.09 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -4139,7 +4139,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099831",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 6925.39,
             "unit": "MT",
@@ -4205,7 +4205,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099504",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 4217.06,
             "unit": "MT",
@@ -4268,7 +4268,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099604",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 1478.75,
             "unit": "MT",
@@ -4334,7 +4334,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099712",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 4094.55,
             "unit": "MT",
@@ -4400,7 +4400,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099713",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 554.14,
             "unit": "MT",
@@ -4488,7 +4488,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099605",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 33338.76,
             "unit": "MT",
@@ -4584,7 +4584,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099836",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 26119.93,
             "unit": "MT",
@@ -4627,11 +4627,11 @@
           "critical": "No",
           "last_import_date": "04-09-2026",
           "last_allocation_date": "08-09-2026",
-          "awaiting_allocation": "1451808",
+          "awaiting_allocation": "1616497",
           "awaiting_allocation_mt": {
-            "value": 1451.81,
+            "value": 1616.5,
             "unit": "MT",
-            "raw": "1451.81 MT"
+            "raw": "1616.50 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -4680,7 +4680,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099832",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 117496.92,
             "unit": "MT",
@@ -4723,11 +4723,11 @@
           "critical": "No",
           "last_import_date": "04-09-2026",
           "last_allocation_date": "08-09-2026",
-          "awaiting_allocation": "16531681",
+          "awaiting_allocation": "16539531",
           "awaiting_allocation_mt": {
-            "value": 16531.68,
+            "value": 16539.53,
             "unit": "MT",
-            "raw": "16531.68 MT"
+            "raw": "16539.53 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -4776,7 +4776,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099833",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 33783.39,
             "unit": "MT",
@@ -4872,7 +4872,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099834",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 63925.33,
             "unit": "MT",
@@ -4915,11 +4915,11 @@
           "critical": "No",
           "last_import_date": "01-07-2026",
           "last_allocation_date": "30-07-2026",
-          "awaiting_allocation": "0",
+          "awaiting_allocation": "728556",
           "awaiting_allocation_mt": {
-            "value": 0.0,
+            "value": 728.56,
             "unit": "MT",
-            "raw": "0.00 MT"
+            "raw": "728.56 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -4968,7 +4968,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099835",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 58295.85,
             "unit": "MT",
@@ -5011,11 +5011,11 @@
           "critical": "No",
           "last_import_date": "04-09-2026",
           "last_allocation_date": "08-09-2026",
-          "awaiting_allocation": "550022",
+          "awaiting_allocation": "4522409",
           "awaiting_allocation_mt": {
-            "value": 550.02,
+            "value": 4522.41,
             "unit": "MT",
-            "raw": "550.02 MT"
+            "raw": "4522.41 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -5064,7 +5064,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099505",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 38881.49,
             "unit": "MT",
@@ -5160,7 +5160,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099718",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 11600.08,
             "unit": "MT",
@@ -5203,11 +5203,11 @@
           "critical": "Yes",
           "last_import_date": "02-09-2026",
           "last_allocation_date": "04-09-2026",
-          "awaiting_allocation": "31235",
+          "awaiting_allocation": "54655",
           "awaiting_allocation_mt": {
-            "value": 31.23,
+            "value": 54.66,
             "unit": "MT",
-            "raw": "31.23 MT"
+            "raw": "54.66 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -5256,7 +5256,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099716",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 2874.21,
             "unit": "MT",
@@ -5352,7 +5352,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099715",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 2943.83,
             "unit": "MT",
@@ -5448,7 +5448,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099717",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 3150.34,
             "unit": "MT",
@@ -5544,7 +5544,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099714",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 12761.32,
             "unit": "MT",
@@ -5660,7 +5660,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099837",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 110698.86,
             "unit": "MT",
@@ -5703,11 +5703,11 @@
           "critical": "Yes",
           "last_import_date": "04-09-2026",
           "last_allocation_date": "08-09-2026",
-          "awaiting_allocation": "264870",
+          "awaiting_allocation": "349910",
           "awaiting_allocation_mt": {
-            "value": 264.87,
+            "value": 349.91,
             "unit": "MT",
-            "raw": "264.87 MT"
+            "raw": "349.91 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -5752,7 +5752,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099838",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 45749.21,
             "unit": "MT",
@@ -5844,7 +5844,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099839",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 34302.33,
             "unit": "MT",
@@ -5887,11 +5887,11 @@
           "critical": "No",
           "last_import_date": "04-09-2026",
           "last_allocation_date": "08-09-2026",
-          "awaiting_allocation": "43640",
+          "awaiting_allocation": "75845",
           "awaiting_allocation_mt": {
-            "value": 43.64,
+            "value": 75.84,
             "unit": "MT",
-            "raw": "43.64 MT"
+            "raw": "75.84 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -5936,7 +5936,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099840",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 26019.96,
             "unit": "MT",
@@ -6028,7 +6028,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099841",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 25510.91,
             "unit": "MT",
@@ -6120,7 +6120,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099506",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 19514.4,
             "unit": "MT",
@@ -6163,11 +6163,11 @@
           "critical": "No",
           "last_import_date": "09-07-2026",
           "last_allocation_date": "10-08-2026",
-          "awaiting_allocation": "0",
+          "awaiting_allocation": "25400",
           "awaiting_allocation_mt": {
-            "value": 0.0,
+            "value": 25.4,
             "unit": "MT",
-            "raw": "0.00 MT"
+            "raw": "25.40 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -6212,7 +6212,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099606",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 23174.68,
             "unit": "MT",
@@ -6255,11 +6255,11 @@
           "critical": "No",
           "last_import_date": "01-07-2026",
           "last_allocation_date": "21-08-2026",
-          "awaiting_allocation": "0",
+          "awaiting_allocation": "598",
           "awaiting_allocation_mt": {
-            "value": 0.0,
+            "value": 0.6,
             "unit": "MT",
-            "raw": "0.00 MT"
+            "raw": "0.60 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -6304,7 +6304,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099719",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 22585.17,
             "unit": "MT",
@@ -6396,7 +6396,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099720",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 1878.7,
             "unit": "MT",
@@ -6488,7 +6488,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099721",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 314.48,
             "unit": "MT",
@@ -6600,7 +6600,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099842",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 54334.43,
             "unit": "MT",
@@ -6666,7 +6666,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099843",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 41828.13,
             "unit": "MT",
@@ -6732,7 +6732,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099844",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 12605.9,
             "unit": "MT",
@@ -6775,11 +6775,11 @@
           "critical": "No",
           "last_import_date": "04-09-2026",
           "last_allocation_date": "08-09-2026",
-          "awaiting_allocation": "2975",
+          "awaiting_allocation": "554220",
           "awaiting_allocation_mt": {
-            "value": 2.98,
+            "value": 554.22,
             "unit": "MT",
-            "raw": "2.98 MT"
+            "raw": "554.22 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -6798,7 +6798,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099845",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 11568.94,
             "unit": "MT",
@@ -6864,7 +6864,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099846",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 5322.29,
             "unit": "MT",
@@ -6930,7 +6930,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099847",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 7995.14,
             "unit": "MT",
@@ -6973,11 +6973,11 @@
           "critical": "No",
           "last_import_date": "04-09-2026",
           "last_allocation_date": "08-09-2026",
-          "awaiting_allocation": "145300",
+          "awaiting_allocation": "238014",
           "awaiting_allocation_mt": {
-            "value": 145.3,
+            "value": 238.01,
             "unit": "MT",
-            "raw": "145.30 MT"
+            "raw": "238.01 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -6996,7 +6996,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099507",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 12575.71,
             "unit": "MT",
@@ -7062,7 +7062,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099607",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 6968.09,
             "unit": "MT",
@@ -7128,7 +7128,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099722",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 1937.67,
             "unit": "MT",
@@ -7171,11 +7171,11 @@
           "critical": "No",
           "last_import_date": "04-09-2026",
           "last_allocation_date": "08-09-2026",
-          "awaiting_allocation": "174",
+          "awaiting_allocation": "3608",
           "awaiting_allocation_mt": {
-            "value": 0.17,
+            "value": 3.61,
             "unit": "MT",
-            "raw": "0.17 MT"
+            "raw": "3.61 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -7194,7 +7194,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099723",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 1831.54,
             "unit": "MT",
@@ -7281,7 +7281,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099848",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 38352.2,
             "unit": "MT",
@@ -7324,11 +7324,11 @@
           "critical": "No",
           "last_import_date": "04-09-2026",
           "last_allocation_date": "08-09-2026",
-          "awaiting_allocation": "2538150",
+          "awaiting_allocation": "2541011",
           "awaiting_allocation_mt": {
-            "value": 2538.15,
+            "value": 2541.01,
             "unit": "MT",
-            "raw": "2538.15 MT"
+            "raw": "2541.01 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -7355,7 +7355,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099849",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 15211.06,
             "unit": "MT",
@@ -7398,11 +7398,11 @@
           "critical": "No",
           "last_import_date": "03-09-2026",
           "last_allocation_date": "07-09-2026",
-          "awaiting_allocation": "550161",
+          "awaiting_allocation": "627140",
           "awaiting_allocation_mt": {
-            "value": 550.16,
+            "value": 627.14,
             "unit": "MT",
-            "raw": "550.16 MT"
+            "raw": "627.14 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -7429,7 +7429,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099850",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 15618.02,
             "unit": "MT",
@@ -7472,11 +7472,11 @@
           "critical": "No",
           "last_import_date": "04-09-2026",
           "last_allocation_date": "08-09-2026",
-          "awaiting_allocation": "469568",
+          "awaiting_allocation": "730310",
           "awaiting_allocation_mt": {
-            "value": 469.57,
+            "value": 730.31,
             "unit": "MT",
-            "raw": "469.57 MT"
+            "raw": "730.31 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -7503,7 +7503,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099851",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 14278.53,
             "unit": "MT",
@@ -7577,7 +7577,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099852",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 13880.42,
             "unit": "MT",
@@ -7620,11 +7620,11 @@
           "critical": "No",
           "last_import_date": "04-09-2026",
           "last_allocation_date": "08-09-2026",
-          "awaiting_allocation": "72830",
+          "awaiting_allocation": "503286",
           "awaiting_allocation_mt": {
-            "value": 72.83,
+            "value": 503.29,
             "unit": "MT",
-            "raw": "72.83 MT"
+            "raw": "503.29 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -7651,7 +7651,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099853",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 11752.33,
             "unit": "MT",
@@ -7725,7 +7725,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099508",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 11254.86,
             "unit": "MT",
@@ -7788,7 +7788,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099608",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 6446.51,
             "unit": "MT",
@@ -7862,7 +7862,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099724",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 5977.74,
             "unit": "MT",
@@ -7905,11 +7905,11 @@
           "critical": "No",
           "last_import_date": "02-09-2026",
           "last_allocation_date": "04-09-2026",
-          "awaiting_allocation": "84604",
+          "awaiting_allocation": "182027",
           "awaiting_allocation_mt": {
-            "value": 84.6,
+            "value": 182.03,
             "unit": "MT",
-            "raw": "84.60 MT"
+            "raw": "182.03 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -7936,7 +7936,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099725",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 2917.88,
             "unit": "MT",
@@ -8010,7 +8010,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099726",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 20.53,
             "unit": "MT",
@@ -8105,7 +8105,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099854",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 79917.56,
             "unit": "MT",
@@ -8179,7 +8179,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099855",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 53152.58,
             "unit": "MT",
@@ -8222,11 +8222,11 @@
           "critical": "No",
           "last_import_date": "02-09-2026",
           "last_allocation_date": "04-09-2026",
-          "awaiting_allocation": "0",
+          "awaiting_allocation": "12960",
           "awaiting_allocation_mt": {
-            "value": 0.0,
+            "value": 12.96,
             "unit": "MT",
-            "raw": "0.00 MT"
+            "raw": "12.96 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -8253,7 +8253,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099856",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 52709.57,
             "unit": "MT",
@@ -8327,7 +8327,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099857",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 23294.11,
             "unit": "MT",
@@ -8401,7 +8401,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099858",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 20671.86,
             "unit": "MT",
@@ -8475,7 +8475,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099859",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 8284.85,
             "unit": "MT",
@@ -8549,7 +8549,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099509",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 22682.31,
             "unit": "MT",
@@ -8592,11 +8592,11 @@
           "critical": "Yes",
           "last_import_date": "04-09-2026",
           "last_allocation_date": "08-09-2026",
-          "awaiting_allocation": "588441",
+          "awaiting_allocation": "633423",
           "awaiting_allocation_mt": {
-            "value": 588.44,
+            "value": 633.42,
             "unit": "MT",
-            "raw": "588.44 MT"
+            "raw": "633.42 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -8612,7 +8612,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099609",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 18829.77,
             "unit": "MT",
@@ -8686,7 +8686,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099727",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 7414.97,
             "unit": "MT",
@@ -8729,11 +8729,11 @@
           "critical": "No",
           "last_import_date": "04-09-2026",
           "last_allocation_date": "08-09-2026",
-          "awaiting_allocation": "88662",
+          "awaiting_allocation": "106287",
           "awaiting_allocation_mt": {
-            "value": 88.66,
+            "value": 106.29,
             "unit": "MT",
-            "raw": "88.66 MT"
+            "raw": "106.29 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -8760,7 +8760,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099728",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 7007.71,
             "unit": "MT",
@@ -8834,7 +8834,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099491",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 5260.44,
             "unit": "MT",
@@ -8877,11 +8877,11 @@
           "critical": "No",
           "last_import_date": "02-09-2026",
           "last_allocation_date": "07-09-2026",
-          "awaiting_allocation": "0",
+          "awaiting_allocation": "303228",
           "awaiting_allocation_mt": {
-            "value": 0.0,
+            "value": 303.23,
             "unit": "MT",
-            "raw": "0.00 MT"
+            "raw": "303.23 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -8918,7 +8918,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099860",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 4995.96,
             "unit": "MT",
@@ -8995,7 +8995,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099861",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 8960.7,
             "unit": "MT",
@@ -9072,7 +9072,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099862",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 6504.78,
             "unit": "MT",
@@ -9115,11 +9115,11 @@
           "critical": "No",
           "last_import_date": "01-09-2026",
           "last_allocation_date": "04-09-2026",
-          "awaiting_allocation": "0",
+          "awaiting_allocation": "227228",
           "awaiting_allocation_mt": {
-            "value": 0.0,
+            "value": 227.23,
             "unit": "MT",
-            "raw": "0.00 MT"
+            "raw": "227.23 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -9149,7 +9149,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099863",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 2378.85,
             "unit": "MT",
@@ -9192,11 +9192,11 @@
           "critical": "No",
           "last_import_date": "03-09-2026",
           "last_allocation_date": "07-09-2026",
-          "awaiting_allocation": "970",
+          "awaiting_allocation": "985",
           "awaiting_allocation_mt": {
-            "value": 0.97,
+            "value": 0.98,
             "unit": "MT",
-            "raw": "0.97 MT"
+            "raw": "0.98 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -9226,7 +9226,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099864",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 5183.78,
             "unit": "MT",
@@ -9303,7 +9303,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099865",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 3431.79,
             "unit": "MT",
@@ -9380,7 +9380,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099866",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 3021.64,
             "unit": "MT",
@@ -9423,11 +9423,11 @@
           "critical": "No",
           "last_import_date": "01-09-2026",
           "last_allocation_date": "03-09-2026",
-          "awaiting_allocation": "0",
+          "awaiting_allocation": "958",
           "awaiting_allocation_mt": {
-            "value": 0.0,
+            "value": 0.96,
             "unit": "MT",
-            "raw": "0.00 MT"
+            "raw": "0.96 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -9457,7 +9457,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099510",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 2806.15,
             "unit": "MT",
@@ -9520,7 +9520,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099610",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 572.32,
             "unit": "MT",
@@ -9563,11 +9563,11 @@
           "critical": "No",
           "last_import_date": "04-09-2026",
           "last_allocation_date": "08-09-2026",
-          "awaiting_allocation": "167",
+          "awaiting_allocation": "242",
           "awaiting_allocation_mt": {
-            "value": 0.17,
+            "value": 0.24,
             "unit": "MT",
-            "raw": "0.17 MT"
+            "raw": "0.24 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -9593,7 +9593,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099729",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 427.29,
             "unit": "MT",
@@ -9636,11 +9636,11 @@
           "critical": "No",
           "last_import_date": "03-09-2026",
           "last_allocation_date": "07-09-2026",
-          "awaiting_allocation": "0",
+          "awaiting_allocation": "55712",
           "awaiting_allocation_mt": {
-            "value": 0.0,
+            "value": 55.71,
             "unit": "MT",
-            "raw": "0.00 MT"
+            "raw": "55.71 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -9666,7 +9666,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099492",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 13.35,
             "unit": "MT",
@@ -9751,7 +9751,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099867",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 13246.22,
             "unit": "MT",
@@ -9794,11 +9794,11 @@
           "critical": "No",
           "last_import_date": "04-09-2026",
           "last_allocation_date": "08-09-2026",
-          "awaiting_allocation": "718892",
+          "awaiting_allocation": "725898",
           "awaiting_allocation_mt": {
-            "value": 718.89,
+            "value": 725.9,
             "unit": "MT",
-            "raw": "718.89 MT"
+            "raw": "725.90 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -9834,7 +9834,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099868",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 10107.74,
             "unit": "MT",
@@ -9877,11 +9877,11 @@
           "critical": "No",
           "last_import_date": "04-09-2026",
           "last_allocation_date": "08-09-2026",
-          "awaiting_allocation": "4780",
+          "awaiting_allocation": "31573",
           "awaiting_allocation_mt": {
-            "value": 4.78,
+            "value": 31.57,
             "unit": "MT",
-            "raw": "4.78 MT"
+            "raw": "31.57 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -9917,7 +9917,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099869",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 25471.04,
             "unit": "MT",
@@ -9960,11 +9960,11 @@
           "critical": "No",
           "last_import_date": "04-09-2026",
           "last_allocation_date": "08-09-2026",
-          "awaiting_allocation": "493941",
+          "awaiting_allocation": "558777",
           "awaiting_allocation_mt": {
-            "value": 493.94,
+            "value": 558.78,
             "unit": "MT",
-            "raw": "493.94 MT"
+            "raw": "558.78 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -10000,7 +10000,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099870",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 17259.54,
             "unit": "MT",
@@ -10043,11 +10043,11 @@
           "critical": "No",
           "last_import_date": "04-09-2026",
           "last_allocation_date": "08-09-2026",
-          "awaiting_allocation": "489701",
+          "awaiting_allocation": "510447",
           "awaiting_allocation_mt": {
-            "value": 489.7,
+            "value": 510.45,
             "unit": "MT",
-            "raw": "489.70 MT"
+            "raw": "510.45 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -10083,7 +10083,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099871",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 13151.64,
             "unit": "MT",
@@ -10126,11 +10126,11 @@
           "critical": "No",
           "last_import_date": "03-09-2026",
           "last_allocation_date": "07-09-2026",
-          "awaiting_allocation": "62536",
+          "awaiting_allocation": "148649",
           "awaiting_allocation_mt": {
-            "value": 62.54,
+            "value": 148.65,
             "unit": "MT",
-            "raw": "62.54 MT"
+            "raw": "148.65 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -10166,7 +10166,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099872",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 10963.33,
             "unit": "MT",
@@ -10209,11 +10209,11 @@
           "critical": "No",
           "last_import_date": "04-09-2026",
           "last_allocation_date": "08-09-2026",
-          "awaiting_allocation": "44840",
+          "awaiting_allocation": "170416",
           "awaiting_allocation_mt": {
-            "value": 44.84,
+            "value": 170.42,
             "unit": "MT",
-            "raw": "44.84 MT"
+            "raw": "170.42 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -10249,7 +10249,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099873",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 9513.44,
             "unit": "MT",
@@ -10292,11 +10292,11 @@
           "critical": "No",
           "last_import_date": "03-09-2026",
           "last_allocation_date": "07-09-2026",
-          "awaiting_allocation": "23068",
+          "awaiting_allocation": "84187",
           "awaiting_allocation_mt": {
-            "value": 23.07,
+            "value": 84.19,
             "unit": "MT",
-            "raw": "23.07 MT"
+            "raw": "84.19 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -10332,7 +10332,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099511",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 9935.34,
             "unit": "MT",
@@ -10395,7 +10395,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099611",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 8442.57,
             "unit": "MT",
@@ -10438,11 +10438,11 @@
           "critical": "Yes",
           "last_import_date": "04-09-2026",
           "last_allocation_date": "08-09-2026",
-          "awaiting_allocation": "79615",
+          "awaiting_allocation": "98833",
           "awaiting_allocation_mt": {
-            "value": 79.61,
+            "value": 98.83,
             "unit": "MT",
-            "raw": "79.61 MT"
+            "raw": "98.83 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -10467,7 +10467,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099730",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 5554.25,
             "unit": "MT",
@@ -10510,11 +10510,11 @@
           "critical": "No",
           "last_import_date": "04-09-2026",
           "last_allocation_date": "08-09-2026",
-          "awaiting_allocation": "117673",
+          "awaiting_allocation": "202000",
           "awaiting_allocation_mt": {
-            "value": 117.67,
+            "value": 202.0,
             "unit": "MT",
-            "raw": "117.67 MT"
+            "raw": "202.00 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -10539,7 +10539,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099731",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 409.05,
             "unit": "MT",
@@ -10582,11 +10582,11 @@
           "critical": "No",
           "last_import_date": "04-09-2026",
           "last_allocation_date": "08-09-2026",
-          "awaiting_allocation": "5070",
+          "awaiting_allocation": "8184",
           "awaiting_allocation_mt": {
-            "value": 5.07,
+            "value": 8.18,
             "unit": "MT",
-            "raw": "5.07 MT"
+            "raw": "8.18 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -10622,7 +10622,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099493",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 31.27,
             "unit": "MT",
@@ -10665,11 +10665,11 @@
           "critical": "No",
           "last_import_date": "27-08-2026",
           "last_allocation_date": "03-09-2026",
-          "awaiting_allocation": "0",
+          "awaiting_allocation": "11",
           "awaiting_allocation_mt": {
-            "value": 0.0,
+            "value": 0.01,
             "unit": "MT",
-            "raw": "0.00 MT"
+            "raw": "0.01 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -10702,7 +10702,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099874",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 928.49,
             "unit": "MT",
@@ -10745,11 +10745,11 @@
           "critical": "No",
           "last_import_date": "04-09-2026",
           "last_allocation_date": "08-09-2026",
-          "awaiting_allocation": "6755",
+          "awaiting_allocation": "8927",
           "awaiting_allocation_mt": {
-            "value": 6.75,
+            "value": 8.93,
             "unit": "MT",
-            "raw": "6.75 MT"
+            "raw": "8.93 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -10768,7 +10768,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099875",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 1497.03,
             "unit": "MT",
@@ -10811,11 +10811,11 @@
           "critical": "No",
           "last_import_date": "01-09-2026",
           "last_allocation_date": "03-09-2026",
-          "awaiting_allocation": "0",
+          "awaiting_allocation": "122085",
           "awaiting_allocation_mt": {
-            "value": 0.0,
+            "value": 122.08,
             "unit": "MT",
-            "raw": "0.00 MT"
+            "raw": "122.08 MT"
           },
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
@@ -10834,7 +10834,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099876",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 515.2,
             "unit": "MT",
@@ -10900,7 +10900,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099877",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 494.45,
             "unit": "MT",
@@ -10966,7 +10966,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099512",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 278.54,
             "unit": "MT",
@@ -11029,7 +11029,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099612",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 271.38,
             "unit": "MT",
@@ -11094,7 +11094,7 @@
           "start_date": "01-07-2026",
           "end_date": "30-09-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099732",
-          "source_last_taric_update": "08-09-2026",
+          "source_last_taric_update": "09-09-2026",
           "initial_amount_mt": {
             "value": 271.23,
             "unit": "MT",
