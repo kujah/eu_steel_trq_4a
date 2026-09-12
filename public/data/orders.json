@@ -1,6 +1,6 @@
 {
   "title": "EU STEEL TRQ 판재류 소진 현황",
-  "generated_at_utc": "2026-09-11T19:32:04.136057+00:00",
+  "generated_at_utc": "2026-09-12T19:01:17.236838+00:00",
   "source": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_consultation.jsp?Lang=en",
   "year_filter": 2026,
   "categories": [
@@ -730,6 +730,188 @@
           "blocking_period": "01-07-2026\n-\n14-07-2026",
           "suspension_period": "",
           "allocated_pct_last_allocation": "100",
+          "associated_taric_codes": [
+            "7208 10 00 00",
+            "7208 25 00 00",
+            "7208 26 00 00",
+            "7208 27 00 00",
+            "7208 36 00 00",
+            "7208 37 00 00",
+            "7208 38 00 00",
+            "7208 39 00 00",
+            "7208 40 00 00",
+            "7208 52 10 00",
+            "7208 52 99 00",
+            "7208 53 10 00",
+            "7208 53 90 00",
+            "7208 54 00 00",
+            "7211 13 00 00",
+            "7211 14 00 00",
+            "7211 19 00 00",
+            "7225 19 10 00",
+            "7225 30 10 00",
+            "7225 30 30 00",
+            "7225 30 90 00",
+            "7225 40 15 00",
+            "7225 40 90 00",
+            "7226 19 10 00",
+            "7226 91 20 00",
+            "7226 91 91 00",
+            "7226 91 99 00"
+          ]
+        },
+        {
+          "order_number": "099809",
+          "quota_section": "1.A",
+          "product_group": "Non Alloy and Other Alloy Hot Rolled Sheets and Strips",
+          "exporter": "Serbia",
+          "origins_summary": "Multiple origins",
+          "start_date": "01-07-2026",
+          "end_date": "30-09-2026",
+          "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099809",
+          "source_last_taric_update": "11-09-2026",
+          "initial_amount_mt": {
+            "value": 64523.65,
+            "unit": "MT",
+            "raw": "64523.65 MT"
+          },
+          "used_amount_mt": {
+            "value": 43652.89,
+            "unit": "MT",
+            "raw": "43652.89 MT"
+          },
+          "balance_mt": {
+            "value": 20870.76,
+            "unit": "MT",
+            "raw": "20870.76 MT"
+          },
+          "validity_period": "01-07-2026\n-\n30-09-2026",
+          "origin": "European Union\nSerbia",
+          "initial_amount": {
+            "value": 64523650.0,
+            "unit": "Kilogram",
+            "raw": "64523650 Kilogram"
+          },
+          "current_amount": {
+            "value": 64523650.0,
+            "unit": "Kilogram",
+            "raw": "64523650 Kilogram"
+          },
+          "balance": {
+            "value": 20870763.5,
+            "unit": "Kilogram",
+            "raw": "20870763.5 Kilogram"
+          },
+          "used_amount": {
+            "value": 43652886.5,
+            "unit": "Kilogram",
+            "raw": "43652886.5"
+          },
+          "utilization_pct": 67.65,
+          "exhaustion_date": "",
+          "critical": "No",
+          "last_import_date": "09-09-2026",
+          "last_allocation_date": "11-09-2026",
+          "awaiting_allocation": "575045",
+          "awaiting_allocation_mt": {
+            "value": 575.04,
+            "unit": "MT",
+            "raw": "575.04 MT"
+          },
+          "blocking_period": "01-07-2026\n-\n14-07-2026",
+          "suspension_period": "",
+          "allocated_pct_last_allocation": "100",
+          "associated_taric_codes": [
+            "7208 10 00 00",
+            "7208 25 00 00",
+            "7208 26 00 00",
+            "7208 27 00 00",
+            "7208 36 00 00",
+            "7208 37 00 00",
+            "7208 38 00 00",
+            "7208 39 00 00",
+            "7208 40 00 00",
+            "7208 52 10 00",
+            "7208 52 99 00",
+            "7208 53 10 00",
+            "7208 53 90 00",
+            "7208 54 00 00",
+            "7211 13 00 00",
+            "7211 14 00 00",
+            "7211 19 00 00",
+            "7225 19 10 00",
+            "7225 30 10 00",
+            "7225 30 30 00",
+            "7225 30 90 00",
+            "7225 40 15 00",
+            "7225 40 90 00",
+            "7226 19 10 00",
+            "7226 91 20 00",
+            "7226 91 91 00",
+            "7226 91 99 00"
+          ]
+        },
+        {
+          "order_number": "099500",
+          "quota_section": "1.A",
+          "product_group": "Non Alloy and Other Alloy Hot Rolled Sheets and Strips",
+          "exporter": "FTA Quota - CSQ",
+          "origins_summary": "Multiple origins",
+          "start_date": "01-07-2026",
+          "end_date": "30-09-2026",
+          "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099500",
+          "source_last_taric_update": "11-09-2026",
+          "initial_amount_mt": {
+            "value": 120920.56,
+            "unit": "MT",
+            "raw": "120920.56 MT"
+          },
+          "used_amount_mt": {
+            "value": 120507.11,
+            "unit": "MT",
+            "raw": "120507.11 MT"
+          },
+          "balance_mt": {
+            "value": 413.45,
+            "unit": "MT",
+            "raw": "413.45 MT"
+          },
+          "validity_period": "01-07-2026\n-\n30-09-2026",
+          "origin": "Egypt\nEuropean Union\nIndia\nKorea, Republic of (South Korea)\nTürkiye\nUkraine",
+          "initial_amount": {
+            "value": 120920560.0,
+            "unit": "Kilogram",
+            "raw": "120920560 Kilogram"
+          },
+          "current_amount": {
+            "value": 120920560.0,
+            "unit": "Kilogram",
+            "raw": "120920560 Kilogram"
+          },
+          "balance": {
+            "value": 413452.748,
+            "unit": "Kilogram",
+            "raw": "413452.748 Kilogram"
+          },
+          "used_amount": {
+            "value": 120507107.25,
+            "unit": "Kilogram",
+            "raw": "120507107.25"
+          },
+          "utilization_pct": 99.66,
+          "exhaustion_date": "",
+          "critical": "Yes",
+          "last_import_date": "01-07-2026",
+          "last_allocation_date": "11-09-2026",
+          "awaiting_allocation": "34381",
+          "awaiting_allocation_mt": {
+            "value": 34.38,
+            "unit": "MT",
+            "raw": "34.38 MT"
+          },
+          "blocking_period": "12-09-2026\n-\n30-09-2026\n01-07-2026\n-\n14-07-2026",
+          "suspension_period": "",
+          "allocated_pct_last_allocation": "0",
           "associated_taric_codes": [
             "7208 10 00 00",
             "7208 25 00 00",
@@ -4013,69 +4195,6 @@
             "7225 19 90 00",
             "7226 19 80 00"
           ]
-        },
-        {
-          "order_number": "099504",
-          "quota_section": "3.B",
-          "product_group": "Electrical Sheets (other than GOES)",
-          "exporter": "FTA Quota - CSQ",
-          "origins_summary": "Multiple origins",
-          "start_date": "01-07-2026",
-          "end_date": "30-09-2026",
-          "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099504",
-          "source_last_taric_update": "11-09-2026",
-          "initial_amount_mt": {
-            "value": 4217.06,
-            "unit": "MT",
-            "raw": "4217.06 MT"
-          },
-          "used_amount_mt": {
-            "value": 0.0,
-            "unit": "MT",
-            "raw": "0.00 MT"
-          },
-          "balance_mt": {
-            "value": 4217.06,
-            "unit": "MT",
-            "raw": "4217.06 MT"
-          },
-          "validity_period": "01-07-2026\n-\n30-09-2026",
-          "origin": "European Union\nKorea, Republic of (South Korea)",
-          "initial_amount": {
-            "value": 4217060.0,
-            "unit": "Kilogram",
-            "raw": "4217060 Kilogram"
-          },
-          "current_amount": {
-            "value": 4217060.0,
-            "unit": "Kilogram",
-            "raw": "4217060 Kilogram"
-          },
-          "balance": {
-            "value": 4217060.0,
-            "unit": "Kilogram",
-            "raw": "4217060 Kilogram"
-          },
-          "used_amount": {
-            "value": 0.0,
-            "unit": "Kilogram",
-            "raw": "0.0"
-          },
-          "utilization_pct": 0.0,
-          "exhaustion_date": "",
-          "critical": "No",
-          "last_import_date": "",
-          "last_allocation_date": "",
-          "awaiting_allocation": "0",
-          "awaiting_allocation_mt": {
-            "value": 0.0,
-            "unit": "MT",
-            "raw": "0.00 MT"
-          },
-          "blocking_period": "01-07-2026\n-\n14-07-2026",
-          "suspension_period": "",
-          "allocated_pct_last_allocation": "0",
-          "associated_taric_codes": []
         },
         {
           "order_number": "099604",
