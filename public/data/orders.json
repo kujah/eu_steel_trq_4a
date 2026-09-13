@@ -1,6 +1,6 @@
 {
   "title": "EU STEEL TRQ 판재류 소진 현황",
-  "generated_at_utc": "2026-09-12T19:01:17.236838+00:00",
+  "generated_at_utc": "2026-09-13T19:14:52.374144+00:00",
   "source": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_consultation.jsp?Lang=en",
   "year_filter": 2026,
   "categories": [
@@ -4195,6 +4195,69 @@
             "7225 19 90 00",
             "7226 19 80 00"
           ]
+        },
+        {
+          "order_number": "099504",
+          "quota_section": "3.B",
+          "product_group": "Electrical Sheets (other than GOES)",
+          "exporter": "FTA Quota - CSQ",
+          "origins_summary": "Multiple origins",
+          "start_date": "01-07-2026",
+          "end_date": "30-09-2026",
+          "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-07-01&Code=099504",
+          "source_last_taric_update": "11-09-2026",
+          "initial_amount_mt": {
+            "value": 4217.06,
+            "unit": "MT",
+            "raw": "4217.06 MT"
+          },
+          "used_amount_mt": {
+            "value": 0.0,
+            "unit": "MT",
+            "raw": "0.00 MT"
+          },
+          "balance_mt": {
+            "value": 4217.06,
+            "unit": "MT",
+            "raw": "4217.06 MT"
+          },
+          "validity_period": "01-07-2026\n-\n30-09-2026",
+          "origin": "European Union\nKorea, Republic of (South Korea)",
+          "initial_amount": {
+            "value": 4217060.0,
+            "unit": "Kilogram",
+            "raw": "4217060 Kilogram"
+          },
+          "current_amount": {
+            "value": 4217060.0,
+            "unit": "Kilogram",
+            "raw": "4217060 Kilogram"
+          },
+          "balance": {
+            "value": 4217060.0,
+            "unit": "Kilogram",
+            "raw": "4217060 Kilogram"
+          },
+          "used_amount": {
+            "value": 0.0,
+            "unit": "Kilogram",
+            "raw": "0.0"
+          },
+          "utilization_pct": 0.0,
+          "exhaustion_date": "",
+          "critical": "No",
+          "last_import_date": "",
+          "last_allocation_date": "",
+          "awaiting_allocation": "0",
+          "awaiting_allocation_mt": {
+            "value": 0.0,
+            "unit": "MT",
+            "raw": "0.00 MT"
+          },
+          "blocking_period": "01-07-2026\n-\n14-07-2026",
+          "suspension_period": "",
+          "allocated_pct_last_allocation": "0",
+          "associated_taric_codes": []
         },
         {
           "order_number": "099604",
