@@ -1,6 +1,6 @@
 {
   "title": "EU STEEL TRQ 판재류 소진 현황",
-  "generated_at_utc": "2026-09-20T19:18:50.565869+00:00",
+  "generated_at_utc": "2026-09-21T20:50:26.685567+00:00",
   "source": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_consultation.jsp?Lang=en",
   "year_filter": 2026,
   "categories": [
@@ -41,7 +41,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099801",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 160573.74,
             "unit": "MT",
@@ -132,7 +132,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099802",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 137884.78,
             "unit": "MT",
@@ -223,7 +223,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099803",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 149318.61,
             "unit": "MT",
@@ -314,7 +314,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099804",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 69730.64,
             "unit": "MT",
@@ -405,7 +405,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099805",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 120882.35,
             "unit": "MT",
@@ -496,7 +496,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099806",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 115457.52,
             "unit": "MT",
@@ -587,7 +587,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099807",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 103743.08,
             "unit": "MT",
@@ -678,7 +678,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099808",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 101232.21,
             "unit": "MT",
@@ -769,7 +769,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099809",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 64523.65,
             "unit": "MT",
@@ -860,7 +860,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099500",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 120920.56,
             "unit": "MT",
@@ -923,7 +923,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099701",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 42512.75,
             "unit": "MT",
@@ -1014,7 +1014,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099705",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 38481.14,
             "unit": "MT",
@@ -1105,7 +1105,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099702",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 31834.46,
             "unit": "MT",
@@ -1196,7 +1196,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099810",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 11830.05,
             "unit": "MT",
@@ -1287,7 +1287,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099811",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 9545.08,
             "unit": "MT",
@@ -1378,7 +1378,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099704",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 5472.5,
             "unit": "MT",
@@ -1469,7 +1469,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099812",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 2377.67,
             "unit": "MT",
@@ -1560,7 +1560,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099703",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 3531.91,
             "unit": "MT",
@@ -1651,7 +1651,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099600",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 5564.01,
             "unit": "MT",
@@ -1742,7 +1742,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099700",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 4271.87,
             "unit": "MT",
@@ -1850,7 +1850,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099813",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 526.03,
             "unit": "MT",
@@ -1915,7 +1915,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099814",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 127.34,
             "unit": "MT",
@@ -1980,7 +1980,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099815",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 243.93,
             "unit": "MT",
@@ -2045,7 +2045,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099816",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 35.59,
             "unit": "MT",
@@ -2110,7 +2110,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099501",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 106.52,
             "unit": "MT",
@@ -2173,7 +2173,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099601",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 44.89,
             "unit": "MT",
@@ -2238,7 +2238,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099706",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 60.94,
             "unit": "MT",
@@ -2326,7 +2326,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099817",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 33586.54,
             "unit": "MT",
@@ -2410,7 +2410,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099818",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 67493.58,
             "unit": "MT",
@@ -2494,7 +2494,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099819",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 63652.67,
             "unit": "MT",
@@ -2578,7 +2578,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099820",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 60152.91,
             "unit": "MT",
@@ -2662,7 +2662,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099821",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 19834.63,
             "unit": "MT",
@@ -2746,7 +2746,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099822",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 29457.81,
             "unit": "MT",
@@ -2830,7 +2830,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099823",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 26549.48,
             "unit": "MT",
@@ -2914,7 +2914,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099502",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 33670.61,
             "unit": "MT",
@@ -2977,7 +2977,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099602",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 24933.92,
             "unit": "MT",
@@ -3059,7 +3059,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099707",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 21283.6,
             "unit": "MT",
@@ -3143,7 +3143,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099709",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 1294.54,
             "unit": "MT",
@@ -3227,7 +3227,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099710",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 745.65,
             "unit": "MT",
@@ -3311,7 +3311,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099708",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 3533.82,
             "unit": "MT",
@@ -3412,7 +3412,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099824",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 77.95,
             "unit": "MT",
@@ -3482,7 +3482,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099825",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 19.56,
             "unit": "MT",
@@ -3552,7 +3552,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099826",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 4.98,
             "unit": "MT",
@@ -3622,7 +3622,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099827",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 8.69,
             "unit": "MT",
@@ -3692,7 +3692,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099503",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 29.05,
             "unit": "MT",
@@ -3755,7 +3755,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099603",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 7.27,
             "unit": "MT",
@@ -3825,7 +3825,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099711",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 5.43,
             "unit": "MT",
@@ -3913,7 +3913,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099828",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 11837.81,
             "unit": "MT",
@@ -3979,7 +3979,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099829",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 5166.66,
             "unit": "MT",
@@ -4045,7 +4045,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099830",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 15495.38,
             "unit": "MT",
@@ -4111,7 +4111,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099831",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 6925.39,
             "unit": "MT",
@@ -4177,7 +4177,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099504",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 4217.06,
             "unit": "MT",
@@ -4240,7 +4240,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099604",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 1478.75,
             "unit": "MT",
@@ -4306,7 +4306,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099712",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 4094.55,
             "unit": "MT",
@@ -4372,7 +4372,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099713",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 554.14,
             "unit": "MT",
@@ -4460,7 +4460,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099605",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 33338.76,
             "unit": "MT",
@@ -4556,7 +4556,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099836",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 26119.93,
             "unit": "MT",
@@ -4652,7 +4652,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099832",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 117496.92,
             "unit": "MT",
@@ -4748,7 +4748,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099833",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 33783.39,
             "unit": "MT",
@@ -4844,7 +4844,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099834",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 63925.33,
             "unit": "MT",
@@ -4940,7 +4940,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099835",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 58295.85,
             "unit": "MT",
@@ -5036,7 +5036,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099505",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 38881.49,
             "unit": "MT",
@@ -5099,7 +5099,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099718",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 11600.08,
             "unit": "MT",
@@ -5195,7 +5195,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099716",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 2874.21,
             "unit": "MT",
@@ -5291,7 +5291,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099715",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 2943.83,
             "unit": "MT",
@@ -5387,7 +5387,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099717",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 3150.34,
             "unit": "MT",
@@ -5483,7 +5483,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099714",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 12761.32,
             "unit": "MT",
@@ -5599,7 +5599,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099837",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 110698.86,
             "unit": "MT",
@@ -5691,7 +5691,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099838",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 45749.21,
             "unit": "MT",
@@ -5783,7 +5783,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099839",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 34302.33,
             "unit": "MT",
@@ -5875,7 +5875,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099840",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 26019.96,
             "unit": "MT",
@@ -5967,7 +5967,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099841",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 25510.91,
             "unit": "MT",
@@ -6059,7 +6059,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099506",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 19514.4,
             "unit": "MT",
@@ -6129,7 +6129,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099606",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 23174.68,
             "unit": "MT",
@@ -6221,7 +6221,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099719",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 22585.17,
             "unit": "MT",
@@ -6313,7 +6313,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099720",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 1878.7,
             "unit": "MT",
@@ -6405,7 +6405,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099721",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 314.48,
             "unit": "MT",
@@ -6517,7 +6517,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099842",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 54334.43,
             "unit": "MT",
@@ -6583,7 +6583,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099843",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 41828.13,
             "unit": "MT",
@@ -6649,7 +6649,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099844",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 12605.9,
             "unit": "MT",
@@ -6715,7 +6715,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099845",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 11568.94,
             "unit": "MT",
@@ -6781,7 +6781,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099846",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 5322.29,
             "unit": "MT",
@@ -6847,7 +6847,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099847",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 7995.14,
             "unit": "MT",
@@ -6913,7 +6913,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099507",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 12575.71,
             "unit": "MT",
@@ -6976,7 +6976,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099607",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 6968.09,
             "unit": "MT",
@@ -7042,7 +7042,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099722",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 1937.67,
             "unit": "MT",
@@ -7108,7 +7108,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099723",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 1831.54,
             "unit": "MT",
@@ -7195,7 +7195,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099848",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 38352.2,
             "unit": "MT",
@@ -7269,7 +7269,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099849",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 15211.06,
             "unit": "MT",
@@ -7343,7 +7343,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099850",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 15618.02,
             "unit": "MT",
@@ -7417,7 +7417,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099851",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 14278.53,
             "unit": "MT",
@@ -7491,7 +7491,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099852",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 13880.42,
             "unit": "MT",
@@ -7565,7 +7565,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099853",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 11752.33,
             "unit": "MT",
@@ -7639,7 +7639,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099508",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 11254.86,
             "unit": "MT",
@@ -7702,7 +7702,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099608",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 6446.51,
             "unit": "MT",
@@ -7776,7 +7776,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099724",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 5977.74,
             "unit": "MT",
@@ -7850,7 +7850,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099725",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 2917.88,
             "unit": "MT",
@@ -7924,7 +7924,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099726",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 20.53,
             "unit": "MT",
@@ -8019,7 +8019,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099854",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 79917.56,
             "unit": "MT",
@@ -8093,7 +8093,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099855",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 53152.58,
             "unit": "MT",
@@ -8167,7 +8167,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099856",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 52709.57,
             "unit": "MT",
@@ -8241,7 +8241,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099857",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 23294.11,
             "unit": "MT",
@@ -8315,7 +8315,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099858",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 20671.86,
             "unit": "MT",
@@ -8389,7 +8389,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099859",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 8284.85,
             "unit": "MT",
@@ -8463,7 +8463,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099509",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 22682.31,
             "unit": "MT",
@@ -8526,7 +8526,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099609",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 18829.77,
             "unit": "MT",
@@ -8600,7 +8600,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099727",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 7414.97,
             "unit": "MT",
@@ -8674,7 +8674,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099728",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 7007.71,
             "unit": "MT",
@@ -8748,7 +8748,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099491",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 5260.44,
             "unit": "MT",
@@ -8832,7 +8832,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099860",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 4995.96,
             "unit": "MT",
@@ -8909,7 +8909,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099861",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 8960.7,
             "unit": "MT",
@@ -8986,7 +8986,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099862",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 6504.78,
             "unit": "MT",
@@ -9063,7 +9063,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099863",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 2378.85,
             "unit": "MT",
@@ -9140,7 +9140,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099864",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 5183.78,
             "unit": "MT",
@@ -9217,7 +9217,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099865",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 3431.79,
             "unit": "MT",
@@ -9294,7 +9294,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099866",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 3021.64,
             "unit": "MT",
@@ -9371,7 +9371,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099510",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 2806.15,
             "unit": "MT",
@@ -9434,7 +9434,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099610",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 572.32,
             "unit": "MT",
@@ -9507,7 +9507,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099729",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 427.29,
             "unit": "MT",
@@ -9580,7 +9580,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099492",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 13.35,
             "unit": "MT",
@@ -9665,7 +9665,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099867",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 13246.22,
             "unit": "MT",
@@ -9748,7 +9748,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099868",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 10107.74,
             "unit": "MT",
@@ -9831,7 +9831,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099869",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 25471.04,
             "unit": "MT",
@@ -9914,7 +9914,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099870",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 17259.54,
             "unit": "MT",
@@ -9997,7 +9997,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099871",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 13151.64,
             "unit": "MT",
@@ -10080,7 +10080,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099872",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 10963.33,
             "unit": "MT",
@@ -10163,7 +10163,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099873",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 9513.44,
             "unit": "MT",
@@ -10246,7 +10246,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099511",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 9935.34,
             "unit": "MT",
@@ -10309,7 +10309,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099611",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 8442.57,
             "unit": "MT",
@@ -10381,7 +10381,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099730",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 5554.25,
             "unit": "MT",
@@ -10453,7 +10453,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099731",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 409.05,
             "unit": "MT",
@@ -10536,7 +10536,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099493",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 31.27,
             "unit": "MT",
@@ -10616,7 +10616,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099874",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 928.49,
             "unit": "MT",
@@ -10682,7 +10682,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099875",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 1497.03,
             "unit": "MT",
@@ -10748,7 +10748,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099876",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 515.2,
             "unit": "MT",
@@ -10814,7 +10814,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099877",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 494.45,
             "unit": "MT",
@@ -10880,7 +10880,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099512",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 278.54,
             "unit": "MT",
@@ -10943,7 +10943,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099612",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 271.38,
             "unit": "MT",
@@ -11008,7 +11008,7 @@
           "start_date": "01-10-2026",
           "end_date": "31-12-2026",
           "detail_url": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_tariff_details.jsp?Lang=en&StartDate=2026-10-01&Code=099732",
-          "source_last_taric_update": "18-09-2026",
+          "source_last_taric_update": "21-09-2026",
           "initial_amount_mt": {
             "value": 271.23,
             "unit": "MT",
