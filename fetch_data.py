@@ -9,7 +9,7 @@ if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
     sys.stderr.reconfigure(encoding="utf-8", errors="replace")
 from dataclasses import dataclass
-from datetime import datetime, timezone
+from datetime import date, datetime, timezone
 from html import unescape
 from pathlib import Path
 from typing import Any
@@ -256,12 +256,15 @@ PRODUCT_CATEGORIES = [
 BASE_URL = "https://ec.europa.eu/taxation_customs/dds2/taric"
 LIST_URL = (
     BASE_URL
-    + "/quota_list.jsp?Lang=en&Code={code}&Year=2026&Expand=true&Offset=0"
+    + "/quota_list.jsp?Lang=en&Code={code}&Year={year}&Expand=true&Offset=0"
 )
 DETAIL_URL = BASE_URL + "/quota_tariff_details.jsp?Lang=en&StartDate={start_date}&Code={code}"
 DATA_DIR = Path(__file__).resolve().parent / "public" / "data"
 OUT_PATH = DATA_DIR / "orders.json"
 XLSX_PATH = DATA_DIR / "eu-steel-trq-flat-dashboard.xlsx"
+HISTORY_DIR = DATA_DIR / "history"
+HISTORY_INDEX_PATH = HISTORY_DIR / "index.json"
+FIRST_PERIOD_START = date(2026, 7, 1)
 
 
 @dataclass
@@ -340,7 +343,7 @@ def parse_table_rows(container_html: str) -> dict[str, str]:
     return rows
 
 
-def parse_list_page(code: str, html: str) -> dict[str, Any]:
+def parse_list_page(code: str, html: str) -> list[dict[str, Any]]:
     tbody_match = re.search(
         r"<tbody[^>]*class=\"ecl-table__body\"[^>]*>(.*?)</tbody>",
         html,
@@ -348,33 +351,42 @@ def parse_list_page(code: str, html: str) -> dict[str, Any]:
     )
     if not tbody_match:
         raise RuntimeError(f"No list body found for order number {code}")
-    row_match = re.search(
-        r"<tr[^>]*class=\"ecl-table__row\"[^>]*>(.*?)</tr>",
-        tbody_match.group(1),
-        flags=re.IGNORECASE | re.DOTALL,
-    )
-    if not row_match:
-        raise RuntimeError(f"No list row found for order number {code}")
-    row_html = row_match.group(1)
-
-    cells = re.findall(r"<td[^>]*>(.*?)</td>", row_html, flags=re.IGNORECASE | re.DOTALL)
-    if len(cells) < 6:
-        raise RuntimeError(f"Unexpected list row structure for order number {code}")
-
-    detail_href = find_first(r'href="([^"]*quota_tariff_details\.jsp[^"]+)"', row_html)
-    start_date = find_first(r"StartDate=([0-9]{4}-[0-9]{2}-[0-9]{2})", detail_href or "")
     last_update = find_first(r"Last TARIC update:&nbsp;([0-9]{2}-[0-9]{2}-[0-9]{4})", html)
+    rows = []
+    for row_html in re.findall(
+        r"<tr[^>]*class=\"ecl-table__row\"[^>]*>(.*?)</tr>",
+        tbody_match.group(1), flags=re.IGNORECASE | re.DOTALL,
+    ):
+        cells = re.findall(r"<td[^>]*>(.*?)</td>", row_html, flags=re.IGNORECASE | re.DOTALL)
+        if len(cells) < 6:
+            continue
+        detail_href = find_first(r'href="([^"]*quota_tariff_details\.jsp[^"]+)"', row_html)
+        detail_start_date = find_first(r"StartDate=([0-9]{4}-[0-9]{2}-[0-9]{2})", detail_href or "")
+        rows.append({
+            "order_number": clean_html_text(cells[0]),
+            "origins_summary": clean_html_text(cells[1]),
+            "start_date": clean_html_text(cells[2]),
+            "end_date": clean_html_text(cells[3]),
+            "balance": parse_quantity(clean_html_text(cells[4])).__dict__,
+            "detail_url": detail_href,
+            "detail_start_date": detail_start_date,
+            "source_last_taric_update": last_update,
+        })
+    if not rows:
+        raise RuntimeError(f"No list rows found for order number {code}")
+    return rows
 
-    return {
-        "order_number": clean_html_text(cells[0]),
-        "origins_summary": clean_html_text(cells[1]),
-        "start_date": clean_html_text(cells[2]),
-        "end_date": clean_html_text(cells[3]),
-        "balance": parse_quantity(clean_html_text(cells[4])).__dict__,
-        "detail_url": detail_href,
-        "detail_start_date": start_date,
-        "source_last_taric_update": last_update,
-    }
+
+def row_dates(row: dict[str, Any]) -> tuple[date, date]:
+    return (
+        datetime.strptime(row["start_date"], "%d-%m-%Y").date(),
+        datetime.strptime(row["end_date"], "%d-%m-%Y").date(),
+    )
+
+
+def select_active_row(rows: list[dict[str, Any]], as_of: date) -> dict[str, Any] | None:
+    active = [row for row in rows if row_dates(row)[0] <= as_of <= row_dates(row)[1]]
+    return max(active, key=lambda row: row_dates(row)[0]) if active else None
 
 
 def parse_detail_page(code: str, html: str) -> dict[str, Any]:
@@ -437,9 +449,8 @@ def to_mt(quantity: dict[str, Any]) -> dict[str, Any]:
     return {"value": converted, "unit": "MT", "raw": f"{converted:.2f} MT"}
 
 
-def build_record(code: str, quota_section: str, product_group: str, exporter: str) -> dict[str, Any]:
-    list_html = fetch_text(LIST_URL.format(code=code))
-    list_data = parse_list_page(code, list_html)
+def build_record(code: str, quota_section: str, product_group: str, exporter: str,
+                 list_data: dict[str, Any]) -> dict[str, Any]:
     if not list_data["detail_start_date"]:
         raise RuntimeError(f"Missing detail start date for order number {code}")
 
@@ -466,26 +477,13 @@ def build_record(code: str, quota_section: str, product_group: str, exporter: st
     }
 
 
-def build_category(category: dict[str, Any]) -> dict[str, Any]:
-    records = []
-    for code, exporter in category["exporters"].items():
-        try:
-            records.append(
-                build_record(code, category["quota_section"], category["product_group"], exporter)
-            )
-        except Exception as exc:  # keep going even if a single order number fails
-            print(f"  ! Skipped {category['key']}/{code} ({exporter}): {exc}")
-
-    report_period = ""
-    if records:
-        report_period = f'{records[0]["start_date"]} - {records[0]["end_date"]}'
-
+def category_payload(category: dict[str, Any], records: list[dict[str, Any]]) -> dict[str, Any]:
     return {
         "key": category["key"],
         "quota_section": category["quota_section"],
         "product_group": category["product_group"],
         "order_numbers": list(category["exporters"].keys()),
-        "report_period": report_period,
+        "report_period": f'{records[0]["start_date"]} - {records[0]["end_date"]}' if records else "",
         "items": records,
     }
 
@@ -555,22 +553,112 @@ def build_excel(categories_payload: list[dict[str, Any]]) -> None:
 
 
 def main() -> None:
+    generated_at = datetime.now(timezone.utc)
+    as_of = generated_at.date()
     categories_payload = []
+    history_records: dict[str, dict[str, list[dict[str, Any]]]] = {}
+    expected_codes = {code for category in PRODUCT_CATEGORIES for code in category["exporters"]}
+    complete_archive_keys = set()
+    for archive_path in HISTORY_DIR.glob("????-??-??.json"):
+        archived = json.loads(archive_path.read_text(encoding="utf-8"))
+        archived_codes = {
+            item["order_number"] for entry in archived["categories"] for item in entry["items"]
+        }
+        if archived_codes == expected_codes:
+            complete_archive_keys.add(archive_path.stem)
+    prior_year_key = f"{as_of.year - 1}-10-01"
+    include_prior_year = (
+        as_of.year > FIRST_PERIOD_START.year
+        and prior_year_key not in complete_archive_keys
+    )
     for category in PRODUCT_CATEGORIES:
         print(f"Fetching category {category['key']} ({category['product_group']})...")
-        categories_payload.append(build_category(category))
+        current_records = []
+        for code, exporter in category["exporters"].items():
+            try:
+                list_html = fetch_text(LIST_URL.format(code=code, year=as_of.year))
+                rows = parse_list_page(code, list_html)
+                if include_prior_year:
+                    prior_html = fetch_text(LIST_URL.format(code=code, year=as_of.year - 1))
+                    prior_rows = parse_list_page(code, prior_html)
+                    seen = {row["detail_start_date"] for row in rows}
+                    rows.extend(row for row in prior_rows if row["detail_start_date"] not in seen)
+                active_row = select_active_row(rows, as_of)
+                if active_row:
+                    current_records.append(build_record(
+                        code, category["quota_section"], category["product_group"],
+                        exporter, active_row,
+                    ))
+                else:
+                    print(f"  ! No active period for {category['key']}/{code} on {as_of}")
+
+                for row in rows:
+                    start, end = row_dates(row)
+                    if start < FIRST_PERIOD_START or end >= as_of:
+                        continue
+                    period_key = start.isoformat()
+                    if period_key in complete_archive_keys:
+                        continue
+                    records_by_category = history_records.setdefault(period_key, {})
+                    records_by_category.setdefault(category["key"], []).append(build_record(
+                        code, category["quota_section"], category["product_group"],
+                        exporter, row,
+                    ))
+            except Exception as exc:  # keep going even if a single order number fails
+                print(f"  ! Skipped {category['key']}/{code} ({exporter}): {exc}")
+        categories_payload.append(category_payload(category, current_records))
+
+    current_codes = {
+        item["order_number"] for entry in categories_payload for item in entry["items"]
+    }
+    if current_codes != expected_codes:
+        raise RuntimeError(
+            f"Active quota data incomplete: {len(current_codes)}/{len(expected_codes)}; existing files left untouched"
+        )
 
     payload = {
         "title": "EU STEEL TRQ 판재류 소진 현황",
-        "generated_at_utc": datetime.now(timezone.utc).isoformat(),
+        "generated_at_utc": generated_at.isoformat(),
         "source": "https://ec.europa.eu/taxation_customs/dds2/taric/quota_consultation.jsp?Lang=en",
-        "year_filter": 2026,
+        "year_filter": as_of.year,
         "categories": categories_payload,
     }
 
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     OUT_PATH.write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
     build_excel(categories_payload)
+    HISTORY_DIR.mkdir(parents=True, exist_ok=True)
+    for period_key, records_by_category in history_records.items():
+        archived_codes = {
+            item["order_number"] for records in records_by_category.values() for item in records
+        }
+        if archived_codes != expected_codes:
+            print(f"  ! Archive {period_key} incomplete: {len(archived_codes)}/{len(expected_codes)} quotas; retry next run")
+            continue
+        archive_categories = [
+            category_payload(category, records_by_category.get(category["key"], []))
+            for category in PRODUCT_CATEGORIES
+        ]
+        archive = {**payload, "categories": archive_categories, "archived_period_start": period_key}
+        archive_path = HISTORY_DIR / f"{period_key}.json"
+        archive_path.write_text(json.dumps(archive, indent=2, ensure_ascii=False), encoding="utf-8")
+        print(f"Wrote {archive_path}")
+    periods = []
+    for archive_path in sorted(HISTORY_DIR.glob("????-??-??.json"), reverse=True):
+        archive = json.loads(archive_path.read_text(encoding="utf-8"))
+        archived_codes = {
+            item["order_number"] for entry in archive["categories"] for item in entry["items"]
+        }
+        if archived_codes != expected_codes:
+            continue
+        period = next((entry["report_period"] for entry in archive["categories"] if entry["report_period"]), "")
+        periods.append({
+            "start_date": archive_path.stem,
+            "period": period,
+            "generated_at_utc": archive["generated_at_utc"],
+            "file": f"history/{archive_path.name}",
+        })
+    HISTORY_INDEX_PATH.write_text(json.dumps({"periods": periods}, indent=2, ensure_ascii=False), encoding="utf-8")
     print(f"Wrote {OUT_PATH}")
 
 

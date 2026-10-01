@@ -1,4 +1,4 @@
-import { cp, mkdir, readFile, rm, writeFile } from "node:fs/promises";
+import { cp, mkdir, readFile, readdir, rm, writeFile } from "node:fs/promises";
 import path from "node:path";
 
 export default async function build() {
@@ -11,6 +11,11 @@ export default async function build() {
   const stylesCss = await readFile(path.join(site, "styles.css"), "utf-8");
   const appJs = await readFile(path.join(site, "app.js"), "utf-8");
   const ordersJson = await readFile(path.join(data, "orders.json"), "utf-8");
+  const historyNames = (await readdir(path.join(data, "history"))).filter((name) => name.endsWith(".json"));
+  const historyAssets = await Promise.all(historyNames.map(async (name) => [
+    `/data/history/${name}`,
+    await readFile(path.join(data, "history", name), "utf-8"),
+  ]));
   const workbookBase64 = await readFile(path.join(data, "eu-steel-trq-flat-dashboard.xlsx"), "base64");
 
   await rm(dist, { recursive: true, force: true });
@@ -23,7 +28,7 @@ export default async function build() {
   await writeFile(path.join(dist, ".nojekyll"), "", "utf-8");
   await writeFile(
     path.join(dist, "server", "index.js"),
-    createServerEntrypoint({ indexHtml, stylesCss, appJs, ordersJson, workbookBase64 }),
+    createServerEntrypoint({ indexHtml, stylesCss, appJs, ordersJson, historyAssets, workbookBase64 }),
     "utf-8",
   );
   await writeFile(
@@ -33,13 +38,17 @@ export default async function build() {
   );
 }
 
-function createServerEntrypoint({ indexHtml, stylesCss, appJs, ordersJson, workbookBase64 }) {
+function createServerEntrypoint({ indexHtml, stylesCss, appJs, ordersJson, historyAssets, workbookBase64 }) {
+  const historyEntries = historyAssets.map(([url, body]) =>
+    `  [${JSON.stringify(url)}, { body: ${JSON.stringify(body)}, type: "application/json; charset=utf-8" }]`
+  ).join(",\n");
   return `const STATIC_TEXT = new Map([
   ["/", { body: ${JSON.stringify("<!doctype html>\n<meta http-equiv=\"refresh\" content=\"0; url=/index.html\">")}, type: "text/html; charset=utf-8" }],
   ["/index.html", { body: ${JSON.stringify(indexHtml)}, type: "text/html; charset=utf-8" }],
   ["/styles.css", { body: ${JSON.stringify(stylesCss)}, type: "text/css; charset=utf-8" }],
   ["/app.js", { body: ${JSON.stringify(appJs)}, type: "application/javascript; charset=utf-8" }],
-  ["/data/orders.json", { body: ${JSON.stringify(ordersJson)}, type: "application/json; charset=utf-8" }]
+  ["/data/orders.json", { body: ${JSON.stringify(ordersJson)}, type: "application/json; charset=utf-8" }],
+${historyEntries}
 ]);
 
 const WORKBOOK_BASE64 = ${JSON.stringify(workbookBase64)};

@@ -34,6 +34,10 @@
     </section>
 
     <nav class="tabs" id="tabs"></nav>
+    <div class="archive-notice" id="archiveNotice" hidden>
+      <span>과거 기준기간 자료를 보고 있습니다. 아래 Generated는 이 자료를 수집한 시점입니다.</span>
+      <button type="button" id="currentPeriodButton">현재 기준기간으로 돌아가기</button>
+    </div>
 
     <section class="summary" id="summary"></section>
 
@@ -48,7 +52,7 @@
             <span>Search</span>
             <input id="searchInput" type="search" placeholder="order number / exporter / taric">
           </label>
-          <a class="download-btn" href="./data/eu-steel-trq-flat-dashboard.xlsx">Download Excel</a>
+          <a class="download-btn" id="excelDownload" href="./data/eu-steel-trq-flat-dashboard.xlsx">Download Excel</a>
         </div>
       </div>
       <div id="cards" class="cards"></div>
@@ -79,6 +83,12 @@
           <tbody id="tableBody"></tbody>
         </table>
       </div>
+    </section>
+
+    <section class="panel history-panel" id="historyPanel" hidden>
+      <h2>과거 기준기간</h2>
+      <p class="panel__hint">기준기간별로 보관한 현황을 열어볼 수 있습니다. 표시된 수치는 해당 자료의 수집 시점 기준입니다.</p>
+      <div class="history-links" id="historyLinks"></div>
     </section>
   </main>
 

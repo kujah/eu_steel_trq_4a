@@ -4,6 +4,7 @@ const numberFmt = new Intl.NumberFormat("en-US", {
 });
 
 let allData = null;
+let currentData = null;
 let categories = [];
 let activeKey = null;
 
@@ -156,21 +157,57 @@ function applySearch() {
   renderTable(items);
 }
 
-async function loadData() {
-  const response = await fetch("./data/orders.json", { cache: "no-store" });
+async function fetchData(path) {
+  const response = await fetch(path, { cache: "no-store" });
   if (!response.ok) {
     throw new Error(`Request failed: ${response.status}`);
   }
+  return response.json();
+}
 
-  allData = await response.json();
+function showData(data, archived) {
+  allData = data;
   categories = allData.categories || [];
-  activeKey = categories.find((category) => category.key === "4A")?.key || categories[0]?.key || null;
+  activeKey = categories.find((category) => category.key === activeKey)?.key
+    || categories.find((category) => category.key === "4A")?.key
+    || categories[0]?.key || null;
+  document.getElementById("archiveNotice").hidden = !archived;
+  document.getElementById("excelDownload").hidden = archived;
   renderTabs();
   applySearch();
+  window.scrollTo({ top: 0, behavior: "smooth" });
+}
+
+async function loadData() {
+  currentData = await fetchData("./data/orders.json");
+  showData(currentData, false);
+
+  const history = await fetchData("./data/history/index.json");
+  const links = document.getElementById("historyLinks");
+  for (const entry of history.periods || []) {
+    const button = document.createElement("button");
+    button.type = "button";
+    button.className = "history-link";
+    button.textContent = entry.period || entry.start_date;
+    button.addEventListener("click", async () => {
+      try {
+        button.disabled = true;
+        showData(await fetchData(`./data/${entry.file}`), true);
+      } catch (error) {
+        console.error(error);
+        alert("과거 기준기간 자료를 불러오지 못했습니다.");
+      } finally {
+        button.disabled = false;
+      }
+    });
+    links.appendChild(button);
+  }
+  document.getElementById("historyPanel").hidden = !links.children.length;
 }
 
 async function main() {
   document.getElementById("searchInput").addEventListener("input", applySearch);
+  document.getElementById("currentPeriodButton").addEventListener("click", () => showData(currentData, false));
   await loadData();
 }
 
